@@ -1,0 +1,3614 @@
+[
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2429-kme_315.npy",
+    "brightness_correction": 1.250074061608702,
+    "contrast_correction": 0.960076478887598,
+    "color_correction": 1.0200548071407667
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2357-_DSC0009-2.npy",
+    "brightness_correction": 1.486385115959495,
+    "contrast_correction": 1.0843898801357243,
+    "color_correction": 0.8546455128042398
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2903-2004-06-07 18-37-52 CRW_9930.npy",
+    "brightness_correction": 0.7652221914040698,
+    "contrast_correction": 0.9153572560396357,
+    "color_correction": 0.9648410459980609
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4316-_DSC0071.npy",
+    "brightness_correction": 0.7747429953560033,
+    "contrast_correction": 0.8263196640950097,
+    "color_correction": 1.31067526782506
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0375-IMG_2700.npy",
+    "brightness_correction": 1.1170046045959021,
+    "contrast_correction": 0.8164664174935344,
+    "color_correction": 1.2942509320379816
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3322-_DGW6269.npy",
+    "brightness_correction": 0.7408984094868343,
+    "contrast_correction": 0.798191992480163,
+    "color_correction": 1.1416737930888927
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1026-IMG_4256.npy",
+    "brightness_correction": 1.1984867438573255,
+    "contrast_correction": 0.8086248608349629,
+    "color_correction": 1.2580118218630187
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4867-DSC_0350.npy",
+    "brightness_correction": 1.0320517392372492,
+    "contrast_correction": 1.1805982618209743,
+    "color_correction": 0.9325971988084055
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3254-IMG_4561.npy",
+    "brightness_correction": 0.7185091819178033,
+    "contrast_correction": 0.8488588671446102,
+    "color_correction": 0.7513352911974047
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1770-NKIM_MG_8267.npy",
+    "brightness_correction": 0.9998280782600008,
+    "contrast_correction": 1.3043006818973608,
+    "color_correction": 0.932136060522825
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3881-IMG_0613.npy",
+    "brightness_correction": 1.1560594904390544,
+    "contrast_correction": 0.7986624071898504,
+    "color_correction": 1.3132207278690509
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2490-WP_CRW_3690.npy",
+    "brightness_correction": 1.031172567242921,
+    "contrast_correction": 0.7827884142026669,
+    "color_correction": 1.5271411472505276
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0330-IMG_4328.npy",
+    "brightness_correction": 1.5978063916733953,
+    "contrast_correction": 0.9040582425463289,
+    "color_correction": 0.7955804551853545
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1794-_DSC0132.npy",
+    "brightness_correction": 0.7161130095497183,
+    "contrast_correction": 0.821489250315244,
+    "color_correction": 1.4300915556252134
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2023-DSC_0070-2.npy",
+    "brightness_correction": 1.0710402939452834,
+    "contrast_correction": 1.1682003498466544,
+    "color_correction": 0.8686711626969699
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2212-jmac_MG_6333.npy",
+    "brightness_correction": 1.435161733449462,
+    "contrast_correction": 0.8576638877050254,
+    "color_correction": 0.9066491070457122
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2050-IMG_1793.npy",
+    "brightness_correction": 0.9733907581288085,
+    "contrast_correction": 1.4001051395535145,
+    "color_correction": 1.013617654465994
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3962-IMG_1450.npy",
+    "brightness_correction": 0.8468652515432975,
+    "contrast_correction": 1.1418420873231352,
+    "color_correction": 1.0765679735752813
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3692-IMG_4493.npy",
+    "brightness_correction": 0.7950057065269882,
+    "contrast_correction": 0.8611358879996063,
+    "color_correction": 1.1057527715804143
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1246-DSC_0196.npy",
+    "brightness_correction": 0.8522971584756508,
+    "contrast_correction": 0.9931119544266849,
+    "color_correction": 0.9051896541281819
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2982-WP_CRW_3387.npy",
+    "brightness_correction": 1.0605906641146272,
+    "contrast_correction": 1.2912654410014655,
+    "color_correction": 1.3294537786008884
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1920-IMG_4166.npy",
+    "brightness_correction": 1.2345689990480782,
+    "contrast_correction": 0.8367240496995669,
+    "color_correction": 0.8492536549022132
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0510-_DGW6409.npy",
+    "brightness_correction": 1.4504799192406994,
+    "contrast_correction": 1.247859796132649,
+    "color_correction": 1.064934216895818
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1799-JI2E0449.npy",
+    "brightness_correction": 1.1469630092147418,
+    "contrast_correction": 0.801420274297855,
+    "color_correction": 0.828577869830275
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1183-07-07-01-at-11h01m48s-_MG_2035.npy",
+    "brightness_correction": 1.301968076355634,
+    "contrast_correction": 1.318782028808697,
+    "color_correction": 0.9095664469609512
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3668-jmac_DSC2521.npy",
+    "brightness_correction": 1.516862249794387,
+    "contrast_correction": 0.8067657396542269,
+    "color_correction": 1.0059311193928266
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4096-jmac_MG_0095.npy",
+    "brightness_correction": 1.256624365467051,
+    "contrast_correction": 1.1682246647385195,
+    "color_correction": 1.1672636945293573
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4438-Duggan_090330_6313.npy",
+    "brightness_correction": 1.046312235920728,
+    "contrast_correction": 0.852933482422992,
+    "color_correction": 0.8774291412465057
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0680-jn_20080130_Las_Vegas_0048.npy",
+    "brightness_correction": 0.9482403463525245,
+    "contrast_correction": 0.9463810068872612,
+    "color_correction": 0.8453614770757854
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0245-IMG_4069.npy",
+    "brightness_correction": 1.3919450212414444,
+    "contrast_correction": 1.1453989361046408,
+    "color_correction": 1.2426758584656417
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4757-DSC_0406.npy",
+    "brightness_correction": 1.1152239394393226,
+    "contrast_correction": 1.0897584553678825,
+    "color_correction": 1.1711620433239405
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0583-Ja_Pe-34.npy",
+    "brightness_correction": 0.7375536736689288,
+    "contrast_correction": 1.257890958665994,
+    "color_correction": 0.9143056046227136
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1089-DSC_0009-1.npy",
+    "brightness_correction": 1.0201709485366695,
+    "contrast_correction": 1.0374332776453983,
+    "color_correction": 1.1676572057181194
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3901-IMG_3788.npy",
+    "brightness_correction": 0.8368295143251853,
+    "contrast_correction": 0.8952154682239069,
+    "color_correction": 1.3287830521556274
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3287-_DGW6308.npy",
+    "brightness_correction": 1.1992330137565261,
+    "contrast_correction": 1.0746494440821812,
+    "color_correction": 0.9126305624071747
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3612-jmacDSC_0176.npy",
+    "brightness_correction": 1.606674088595758,
+    "contrast_correction": 1.2091938986439004,
+    "color_correction": 1.159999150110611
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2231-kme_394.npy",
+    "brightness_correction": 0.9368666026165091,
+    "contrast_correction": 1.1686984636755648,
+    "color_correction": 0.8659526456218248
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0471-IMG_2901.npy",
+    "brightness_correction": 0.8358647561656067,
+    "contrast_correction": 0.7706116384679874,
+    "color_correction": 1.0705592284083683
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3565-kme_223.npy",
+    "brightness_correction": 0.9134355464440873,
+    "contrast_correction": 1.2465003322964947,
+    "color_correction": 1.1223980961837412
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0811-20051224_165428__MG_0953.npy",
+    "brightness_correction": 1.3798785016028654,
+    "contrast_correction": 0.8253778712483636,
+    "color_correction": 1.1494155580146177
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4820-DSC_0210.npy",
+    "brightness_correction": 1.111741015373825,
+    "contrast_correction": 0.8201795581291458,
+    "color_correction": 1.0104357309286325
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2444-dgw_032.npy",
+    "brightness_correction": 1.359995220710152,
+    "contrast_correction": 0.9850837412426028,
+    "color_correction": 1.2940441691611513
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2632-kme_360.npy",
+    "brightness_correction": 0.7588941146305597,
+    "contrast_correction": 1.4113538044029657,
+    "color_correction": 0.7616936481827453
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3175-NKIM_083.npy",
+    "brightness_correction": 1.1443040714378918,
+    "contrast_correction": 1.1291971217203587,
+    "color_correction": 1.2391312812013733
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0957-IMG_0032.npy",
+    "brightness_correction": 1.2155801802521125,
+    "contrast_correction": 0.8570385805957818,
+    "color_correction": 0.8316063831532379
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3953-jn_20080803_0524.npy",
+    "brightness_correction": 0.8928592716140613,
+    "contrast_correction": 1.0942105689705877,
+    "color_correction": 1.0293093805922642
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0292-dgw_086.npy",
+    "brightness_correction": 0.7517881255403449,
+    "contrast_correction": 0.8039999211568011,
+    "color_correction": 0.8077648854588482
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1860-jmac_DSC5640.npy",
+    "brightness_correction": 0.7833327178397937,
+    "contrast_correction": 0.8548086461062543,
+    "color_correction": 0.983397464531596
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1159-KE_-0046.npy",
+    "brightness_correction": 1.2776335264085157,
+    "contrast_correction": 1.217258795745829,
+    "color_correction": 0.8968844261538215
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1181-_I2E7838.npy",
+    "brightness_correction": 1.0883844600487849,
+    "contrast_correction": 1.316995543295901,
+    "color_correction": 1.1355112846015791
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0949-dgw_030.npy",
+    "brightness_correction": 1.5296175679339874,
+    "contrast_correction": 0.9690197707312508,
+    "color_correction": 0.9762500704602041
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0134-LS051025_day_2_LL003.npy",
+    "brightness_correction": 0.8382185337503048,
+    "contrast_correction": 0.817281002618199,
+    "color_correction": 0.7522722078459971
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1193-_DSC6404.npy",
+    "brightness_correction": 1.5509169770569255,
+    "contrast_correction": 0.961518771951683,
+    "color_correction": 1.2142105926916757
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1925-_MG_7836.npy",
+    "brightness_correction": 1.2424557185943663,
+    "contrast_correction": 0.874384622376791,
+    "color_correction": 0.8827766790151229
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2467-jmacDSC_0043.npy",
+    "brightness_correction": 0.8923426335818908,
+    "contrast_correction": 1.180564743764041,
+    "color_correction": 0.8828102770048866
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2985-IMG_2634.npy",
+    "brightness_correction": 1.036427481735145,
+    "contrast_correction": 1.380949054392835,
+    "color_correction": 0.9290257787952888
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3070-NKIM_MG_6388.npy",
+    "brightness_correction": 0.9600793959107388,
+    "contrast_correction": 1.3248270293077047,
+    "color_correction": 1.2771230334947619
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1674-DSC_0013.npy",
+    "brightness_correction": 0.7907927031058547,
+    "contrast_correction": 1.3546439388866292,
+    "color_correction": 0.7799134775515055
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0011-DSC_0082.npy",
+    "brightness_correction": 0.9822737307408135,
+    "contrast_correction": 1.357738100150936,
+    "color_correction": 1.2356198955184539
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0642-kme_037.npy",
+    "brightness_correction": 0.9358547269107508,
+    "contrast_correction": 0.953504941725997,
+    "color_correction": 1.0256516451058129
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0308-jmac_DSC3379.npy",
+    "brightness_correction": 0.971301049688455,
+    "contrast_correction": 0.8555435635239806,
+    "color_correction": 1.1452119116581618
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2261-kme_012.npy",
+    "brightness_correction": 0.9032407325865532,
+    "contrast_correction": 1.2227098836371106,
+    "color_correction": 1.367083014224732
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0712-_DSC8911.npy",
+    "brightness_correction": 1.4999048304082163,
+    "contrast_correction": 1.221840031154777,
+    "color_correction": 0.9711960881553502
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0983-IMG_4405.npy",
+    "brightness_correction": 1.295344917684644,
+    "contrast_correction": 1.007720752379257,
+    "color_correction": 0.9537157106606994
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0644-IMG_1680.npy",
+    "brightness_correction": 0.9386402985705697,
+    "contrast_correction": 0.8219064624169479,
+    "color_correction": 1.373500473301558
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0333-IMG_0661.npy",
+    "brightness_correction": 0.7638170766553283,
+    "contrast_correction": 0.857311243979222,
+    "color_correction": 1.2716835798005486
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2824-dvf_035.npy",
+    "brightness_correction": 0.8034628015128972,
+    "contrast_correction": 0.9357618494143288,
+    "color_correction": 1.0315892153400332
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3973-DSC_0068-2.npy",
+    "brightness_correction": 1.6655671197505921,
+    "contrast_correction": 0.8675012056743123,
+    "color_correction": 0.933752237245901
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4690-DSC_0005-1-2.npy",
+    "brightness_correction": 1.0059510943722993,
+    "contrast_correction": 1.2408192933590585,
+    "color_correction": 0.9949208420988496
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2634-IMG_5073.npy",
+    "brightness_correction": 0.9887674162339024,
+    "contrast_correction": 0.7868678563079912,
+    "color_correction": 1.1631341100039652
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0852-tc_DSC1928.npy",
+    "brightness_correction": 0.7729117475446678,
+    "contrast_correction": 1.1772833275148016,
+    "color_correction": 1.1866593234558545
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0407-IMG_8270.npy",
+    "brightness_correction": 0.9532784376973886,
+    "contrast_correction": 1.129583043942126,
+    "color_correction": 1.0438079295924365
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2549-IMG_3684.npy",
+    "brightness_correction": 0.7237025327482735,
+    "contrast_correction": 0.7890055478948699,
+    "color_correction": 1.0087699344116545
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0247-kme_376.npy",
+    "brightness_correction": 1.169090137819043,
+    "contrast_correction": 0.7784447805307143,
+    "color_correction": 1.021080794674309
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2612-dgw_115.npy",
+    "brightness_correction": 1.3689165885990449,
+    "contrast_correction": 1.3525655807330268,
+    "color_correction": 1.0499674885179615
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2330-_DSC9771.npy",
+    "brightness_correction": 1.1852374642735335,
+    "contrast_correction": 0.796700257337426,
+    "color_correction": 1.041407580433028
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3810-_DGW6236.npy",
+    "brightness_correction": 0.9006523043826375,
+    "contrast_correction": 0.9773699213564796,
+    "color_correction": 1.2855800842839522
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1757-dvf_023.npy",
+    "brightness_correction": 0.8176391352400415,
+    "contrast_correction": 0.8637729894068439,
+    "color_correction": 1.251170604538462
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4327-Duggan_080127_4972.npy",
+    "brightness_correction": 0.9985782878963266,
+    "contrast_correction": 1.1210642728529143,
+    "color_correction": 0.9791637251065352
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1218-IMG_4482.npy",
+    "brightness_correction": 1.4655585804709426,
+    "contrast_correction": 1.13631605126975,
+    "color_correction": 0.928790831507037
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1814-Ja_Pe-22.npy",
+    "brightness_correction": 0.9462468027736494,
+    "contrast_correction": 1.2614180567572462,
+    "color_correction": 1.3167052633513945
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1846-MB_20030906_059.npy",
+    "brightness_correction": 0.8243221826929769,
+    "contrast_correction": 0.8536161956032798,
+    "color_correction": 0.802149697602877
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3449-jmac_DSC2669.npy",
+    "brightness_correction": 0.9190343734264647,
+    "contrast_correction": 1.2590025057817718,
+    "color_correction": 0.7577509085064871
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2141-IMG_2342.npy",
+    "brightness_correction": 0.7220615296612046,
+    "contrast_correction": 0.9156717773467793,
+    "color_correction": 0.8318609098890422
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0925-20051212_140753__E6B8209.npy",
+    "brightness_correction": 0.8171243575980496,
+    "contrast_correction": 1.1605910917403752,
+    "color_correction": 0.7674653145237478
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4838-_DSC0200.npy",
+    "brightness_correction": 1.0229285975837157,
+    "contrast_correction": 0.8238979699123649,
+    "color_correction": 1.1593763550015517
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3437-IMG_0474.npy",
+    "brightness_correction": 1.3966690689167662,
+    "contrast_correction": 1.110823162532995,
+    "color_correction": 1.113891508021712
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3752-IMG_8290.npy",
+    "brightness_correction": 0.836000768991066,
+    "contrast_correction": 1.0311141528332304,
+    "color_correction": 1.0551767331174715
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1705-_DGW6349.npy",
+    "brightness_correction": 1.0930947659221588,
+    "contrast_correction": 1.0523278628572013,
+    "color_correction": 0.8449114928835161
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2286-IMG_0059.npy",
+    "brightness_correction": 1.0831127837147994,
+    "contrast_correction": 0.7805134077816323,
+    "color_correction": 1.1141709080955666
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0486-jmac_MG_0791.npy",
+    "brightness_correction": 0.8036669036929428,
+    "contrast_correction": 0.7782152913299819,
+    "color_correction": 0.8425068146301379
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3835-jmac_DSC3223.npy",
+    "brightness_correction": 1.6244744652138907,
+    "contrast_correction": 0.8907865843464348,
+    "color_correction": 1.2562398541815576
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0349-jn_20081025_Kent_Shelter_068.npy",
+    "brightness_correction": 0.8522692224627524,
+    "contrast_correction": 1.1404093237659774,
+    "color_correction": 1.0971737968614248
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3662-_DSC0114.npy",
+    "brightness_correction": 1.166212532943037,
+    "contrast_correction": 0.8513884573899155,
+    "color_correction": 1.1389786369480395
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2306-kme_119.npy",
+    "brightness_correction": 0.9542186780047732,
+    "contrast_correction": 1.2200012560921674,
+    "color_correction": 1.249241245144007
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0612-LSCRW_0030.npy",
+    "brightness_correction": 0.9976507940048099,
+    "contrast_correction": 0.8238304047386148,
+    "color_correction": 1.3797210197180412
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0622-jmac_MG_5852.npy",
+    "brightness_correction": 1.2586369995615423,
+    "contrast_correction": 1.116956738737194,
+    "color_correction": 1.014427297744612
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0220-LS051026_day_1_arive28.npy",
+    "brightness_correction": 0.8496095993428635,
+    "contrast_correction": 1.0184097363490183,
+    "color_correction": 0.7519966146606359
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2970-kme_123.npy",
+    "brightness_correction": 1.5703518573736872,
+    "contrast_correction": 0.9126994394163475,
+    "color_correction": 0.8838133053093666
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2656-LSCRW_0073.npy",
+    "brightness_correction": 0.7535171103385947,
+    "contrast_correction": 1.0078361181600042,
+    "color_correction": 1.1818936322758995
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2372-kme_139.npy",
+    "brightness_correction": 0.9213499948083557,
+    "contrast_correction": 1.0810677841790484,
+    "color_correction": 1.3869472759489871
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0304-dgw_137.npy",
+    "brightness_correction": 0.8995208794929875,
+    "contrast_correction": 1.155231010617086,
+    "color_correction": 1.100577144508431
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2015-jn_20080803_0453.npy",
+    "brightness_correction": 0.7468902065439686,
+    "contrast_correction": 1.304429821784988,
+    "color_correction": 1.3440872613775503
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1642-DSC_0011.npy",
+    "brightness_correction": 0.8334298954609886,
+    "contrast_correction": 1.1176589652912188,
+    "color_correction": 0.838454870392421
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0268-_DSC0059.npy",
+    "brightness_correction": 1.074088585685262,
+    "contrast_correction": 1.2641209379449105,
+    "color_correction": 1.323988266793007
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0468-DSC_0100-2.npy",
+    "brightness_correction": 1.1917750784733767,
+    "contrast_correction": 1.219517274733755,
+    "color_correction": 1.405276736266448
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1957-_I2E6085.npy",
+    "brightness_correction": 1.2559952814969975,
+    "contrast_correction": 0.9581849058161697,
+    "color_correction": 0.844629540777538
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1035-KE_-0073.npy",
+    "brightness_correction": 1.2367431864103504,
+    "contrast_correction": 0.9817237517918054,
+    "color_correction": 1.170969005016821
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0211-IMG_0028.npy",
+    "brightness_correction": 1.619481855998992,
+    "contrast_correction": 0.8596527269481302,
+    "color_correction": 1.433480618890292
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0756-IMG_1248.npy",
+    "brightness_correction": 0.8138546925895739,
+    "contrast_correction": 0.8874361645851754,
+    "color_correction": 1.1497254500845782
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1396-20051221_193040__E6B9719.npy",
+    "brightness_correction": 0.7795771596618135,
+    "contrast_correction": 0.804465040133922,
+    "color_correction": 1.0394056775668774
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1805-_DSC1151.npy",
+    "brightness_correction": 0.7647199950483153,
+    "contrast_correction": 1.2338306228855145,
+    "color_correction": 1.0226742431978566
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1961-tc_DSC0712.npy",
+    "brightness_correction": 1.0323721426056407,
+    "contrast_correction": 1.1113491141306684,
+    "color_correction": 0.8893883998042983
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1923-jmac_DSC3763.npy",
+    "brightness_correction": 0.8596617285524984,
+    "contrast_correction": 1.1720379874956577,
+    "color_correction": 0.8522568471622141
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1165-_I2E6386.npy",
+    "brightness_correction": 1.6167870443570844,
+    "contrast_correction": 1.296152318964936,
+    "color_correction": 1.0666151673566375
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2352-_DGW6398.npy",
+    "brightness_correction": 1.0904573820071706,
+    "contrast_correction": 1.008253036514803,
+    "color_correction": 1.4627972093724835
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0051-WP_CRW_3461.npy",
+    "brightness_correction": 0.9777867334835421,
+    "contrast_correction": 0.8014173406794745,
+    "color_correction": 0.9914898754341545
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0421-_DGW6279.npy",
+    "brightness_correction": 1.6314251228347445,
+    "contrast_correction": 1.0391508933005646,
+    "color_correction": 1.4870799245737751
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3200-dgw_133.npy",
+    "brightness_correction": 0.9966420665508628,
+    "contrast_correction": 0.8482001998896256,
+    "color_correction": 0.8311886916063146
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2700-kme_418.npy",
+    "brightness_correction": 1.006433549588297,
+    "contrast_correction": 0.9570391978571113,
+    "color_correction": 0.9140252403500916
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3347-kme_477.npy",
+    "brightness_correction": 0.8420719019380735,
+    "contrast_correction": 0.9622934145352651,
+    "color_correction": 0.7507737046800904
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3024-07-08-11-at-16h35m32s-N0000142.npy",
+    "brightness_correction": 0.8166794905727203,
+    "contrast_correction": 0.9812989325614854,
+    "color_correction": 0.827120497812479
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1197-IMG_4674.npy",
+    "brightness_correction": 0.7830611510903717,
+    "contrast_correction": 1.3286597225938144,
+    "color_correction": 0.7717551108766607
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3966-IMG_1050.npy",
+    "brightness_correction": 0.919096370686662,
+    "contrast_correction": 0.7717419966896302,
+    "color_correction": 0.8500978694210028
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0224-IMG_5820.npy",
+    "brightness_correction": 0.823932111325694,
+    "contrast_correction": 1.0432227668345695,
+    "color_correction": 1.1851073178773068
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0187-IMG_3832.npy",
+    "brightness_correction": 1.0405493009634323,
+    "contrast_correction": 0.8141172144194636,
+    "color_correction": 0.8567103805552585
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1124-IMG_4242.npy",
+    "brightness_correction": 0.8925742618800198,
+    "contrast_correction": 1.3444194663656237,
+    "color_correction": 0.9062174546925666
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0519-LS_060724_8766.npy",
+    "brightness_correction": 1.1469892202806038,
+    "contrast_correction": 0.9836435998165943,
+    "color_correction": 0.8812045372598617
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3410-kme_109.npy",
+    "brightness_correction": 0.7960726099074352,
+    "contrast_correction": 1.0422765041490913,
+    "color_correction": 1.5036724115277824
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3082-CRW_0184.npy",
+    "brightness_correction": 0.9435829193947108,
+    "contrast_correction": 1.4208332177247327,
+    "color_correction": 0.8131695409726943
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0058-NKIM_MG_6121.npy",
+    "brightness_correction": 1.6257589933695764,
+    "contrast_correction": 1.1974069504605542,
+    "color_correction": 1.0537355022368302
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1239-LSYD4O0652.npy",
+    "brightness_correction": 1.2390309210187338,
+    "contrast_correction": 1.1994233289064415,
+    "color_correction": 0.8911251624711379
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3848-DSC_0024.npy",
+    "brightness_correction": 1.1610418134993539,
+    "contrast_correction": 1.0260072394439945,
+    "color_correction": 0.8962329731862754
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1479-jmac_MG_8030.npy",
+    "brightness_correction": 0.8224074701635636,
+    "contrast_correction": 0.9572464547377431,
+    "color_correction": 1.113273685166639
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0932-dgw_088.npy",
+    "brightness_correction": 0.7667245282606752,
+    "contrast_correction": 0.8194398174544657,
+    "color_correction": 1.3213123022361617
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1214-IMG_0041.npy",
+    "brightness_correction": 0.820752833308736,
+    "contrast_correction": 1.2140541293875873,
+    "color_correction": 1.2868179451538917
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0796-dvf_062.npy",
+    "brightness_correction": 1.6103588785097056,
+    "contrast_correction": 0.9423712810633703,
+    "color_correction": 0.8056142792833512
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0412-_DGW6297.npy",
+    "brightness_correction": 0.8172801971350764,
+    "contrast_correction": 0.9765188708088933,
+    "color_correction": 0.7585743077360383
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1160-_MG_1159.npy",
+    "brightness_correction": 1.1601347467034808,
+    "contrast_correction": 1.1246041750544016,
+    "color_correction": 1.232935101400588
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2485-_DGW6336.npy",
+    "brightness_correction": 1.3037031113191953,
+    "contrast_correction": 1.1340983983350184,
+    "color_correction": 1.0559678293054318
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2149-WP_CRW_8554.npy",
+    "brightness_correction": 1.224196460321949,
+    "contrast_correction": 0.7925303319730707,
+    "color_correction": 1.2467816411705488
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2442-IMG_3549.npy",
+    "brightness_correction": 1.1308688831546088,
+    "contrast_correction": 1.2781393574629434,
+    "color_correction": 0.781728966340732
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1133-jmac_DSC2375.npy",
+    "brightness_correction": 1.0507372080178345,
+    "contrast_correction": 0.8329901790097677,
+    "color_correction": 1.0957946302907247
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1984-MB_060909_014.npy",
+    "brightness_correction": 1.046942855076972,
+    "contrast_correction": 0.8723221899134265,
+    "color_correction": 0.8562091473528476
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0887-_DSC5906.npy",
+    "brightness_correction": 1.1057870511556755,
+    "contrast_correction": 1.0329645512149193,
+    "color_correction": 1.075934345458134
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4231-Duggan_080326_5786.npy",
+    "brightness_correction": 1.308034525706888,
+    "contrast_correction": 1.0772345583778933,
+    "color_correction": 0.8195716385849784
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0759-IMG_3533.npy",
+    "brightness_correction": 1.483060217972246,
+    "contrast_correction": 1.2421464201019143,
+    "color_correction": 0.7756157288475212
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2988-_DSC0003.npy",
+    "brightness_correction": 0.8477344539689902,
+    "contrast_correction": 1.2936238225780565,
+    "color_correction": 0.847727427285081
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2195-kme_199.npy",
+    "brightness_correction": 1.4361900885564292,
+    "contrast_correction": 1.006577930552747,
+    "color_correction": 0.9316244597532536
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0490-dvf_093.npy",
+    "brightness_correction": 0.8335097093607372,
+    "contrast_correction": 1.1234342503692827,
+    "color_correction": 1.2760199599722875
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4705-_DGW0343.npy",
+    "brightness_correction": 0.7203979393775156,
+    "contrast_correction": 0.8475476051384387,
+    "color_correction": 1.1087692236647215
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0789-IMG_1659.npy",
+    "brightness_correction": 1.243429053538947,
+    "contrast_correction": 1.303448873809408,
+    "color_correction": 1.0310685446286205
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3153-IMG_0123.npy",
+    "brightness_correction": 1.650697610471438,
+    "contrast_correction": 0.8459900466773136,
+    "color_correction": 1.0750193161255468
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0495-WP_CRW_9591.npy",
+    "brightness_correction": 0.7776083272839511,
+    "contrast_correction": 1.0955198433656457,
+    "color_correction": 0.7621880062913077
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0945-jn_20080802_0013.npy",
+    "brightness_correction": 0.7878806882910104,
+    "contrast_correction": 1.0411359791128632,
+    "color_correction": 0.8042039212439167
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4574-DSC_0038.npy",
+    "brightness_correction": 1.1896893667032111,
+    "contrast_correction": 0.7693349617650901,
+    "color_correction": 1.410206450679826
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1256-Ja_Pe-30.npy",
+    "brightness_correction": 0.8969691343420599,
+    "contrast_correction": 1.0708796768151292,
+    "color_correction": 1.0204570817976266
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1110-_DSC0125.npy",
+    "brightness_correction": 0.7347283145094803,
+    "contrast_correction": 1.1562970442300258,
+    "color_correction": 0.906493614190764
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4532-DSC_0141.npy",
+    "brightness_correction": 1.1646639842033124,
+    "contrast_correction": 1.2747923345679595,
+    "color_correction": 1.2131524869874906
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3053-kme_135.npy",
+    "brightness_correction": 0.9508745870047358,
+    "contrast_correction": 1.2873840530409117,
+    "color_correction": 1.3174695586833942
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1442-CRW_0004.npy",
+    "brightness_correction": 0.8650098734401582,
+    "contrast_correction": 0.8640259064907665,
+    "color_correction": 1.443361716489602
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1355-_I2E9019.npy",
+    "brightness_correction": 0.8052150764128579,
+    "contrast_correction": 0.8198017965446478,
+    "color_correction": 0.8987418693553324
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4203-_DGW0246.npy",
+    "brightness_correction": 1.1143759462554468,
+    "contrast_correction": 1.0538231510018108,
+    "color_correction": 1.3153777501280206
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1743-07-06-01-at-14h31m58-s_MG_1288.npy",
+    "brightness_correction": 1.35513108455449,
+    "contrast_correction": 0.7925343567623346,
+    "color_correction": 0.754312708222414
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4868-DSC_0030-2.npy",
+    "brightness_correction": 0.8378203243049197,
+    "contrast_correction": 0.8430339815401312,
+    "color_correction": 1.2867855234182066
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2175-050708_183048__I2E9770.npy",
+    "brightness_correction": 0.7673054644776645,
+    "contrast_correction": 1.3061054824950598,
+    "color_correction": 1.30948053420595
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2268-_DGW6411.npy",
+    "brightness_correction": 1.0019595189887203,
+    "contrast_correction": 1.1316840067384362,
+    "color_correction": 0.9193553094419564
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3637-_MG_0120.npy",
+    "brightness_correction": 0.7534746395566337,
+    "contrast_correction": 1.1639969139116142,
+    "color_correction": 1.143182571564306
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1512-KE_-1794.npy",
+    "brightness_correction": 0.8152516501718233,
+    "contrast_correction": 1.1124098763958423,
+    "color_correction": 0.7860558006208553
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2398-051007_160936__I2E8858.npy",
+    "brightness_correction": 1.5939348412964696,
+    "contrast_correction": 0.817516489418003,
+    "color_correction": 0.7754920601147952
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4706-DSC_0066.npy",
+    "brightness_correction": 1.5693670597205267,
+    "contrast_correction": 1.0796546966916463,
+    "color_correction": 0.9354928704590573
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1255-IMG_0147.npy",
+    "brightness_correction": 0.9802348578690883,
+    "contrast_correction": 1.2580142631766915,
+    "color_correction": 1.5141032900223137
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0997-jmac_MG_7637.npy",
+    "brightness_correction": 0.7588687342480346,
+    "contrast_correction": 1.3240222099759607,
+    "color_correction": 0.7453041798375853
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2995-dvf_068.npy",
+    "brightness_correction": 1.4494256155428658,
+    "contrast_correction": 1.0148022898435463,
+    "color_correction": 0.747184151850647
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3923-_DSC0095.npy",
+    "brightness_correction": 0.778263207469739,
+    "contrast_correction": 0.9784388088672985,
+    "color_correction": 1.3439346896383897
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0908-060813_072428__Z9B1305.npy",
+    "brightness_correction": 0.9236877992396211,
+    "contrast_correction": 0.9241177848194811,
+    "color_correction": 1.152071585539007
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1206-07-11-11-at-10h31m23s-_MG_4451.npy",
+    "brightness_correction": 1.0250211930069373,
+    "contrast_correction": 0.8053281993806655,
+    "color_correction": 1.351828093964716
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0382-kme_573.npy",
+    "brightness_correction": 0.888810343489836,
+    "contrast_correction": 1.0877254538446368,
+    "color_correction": 0.9263318817939091
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0071-kme_490.npy",
+    "brightness_correction": 0.8524769579634919,
+    "contrast_correction": 1.0135060760651884,
+    "color_correction": 0.8517138568764621
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1836-jn_20080803_0681.npy",
+    "brightness_correction": 0.7802900133459524,
+    "contrast_correction": 1.2228343409196922,
+    "color_correction": 1.244527516021892
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2011-050715_214230__I2E4009.npy",
+    "brightness_correction": 1.4207651564581156,
+    "contrast_correction": 0.7902805119628257,
+    "color_correction": 1.2377979598081
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3100-jn_20080524_014.npy",
+    "brightness_correction": 1.5020626606933374,
+    "contrast_correction": 1.3212247245061166,
+    "color_correction": 1.0721710813779664
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2743-060815_083434__Z9B1840.npy",
+    "brightness_correction": 0.7636302236371191,
+    "contrast_correction": 1.310380832109047,
+    "color_correction": 1.2370781274574483
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1951-CRW_0014.npy",
+    "brightness_correction": 1.3374322871229836,
+    "contrast_correction": 0.9127238691250116,
+    "color_correction": 1.1363145279866318
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3571-IMG_0290.npy",
+    "brightness_correction": 0.7250761968038768,
+    "contrast_correction": 0.9082538144494375,
+    "color_correction": 0.9862498544455317
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0985-_MG_1594.npy",
+    "brightness_correction": 0.9418557707880005,
+    "contrast_correction": 0.812909190493866,
+    "color_correction": 0.8460769926284126
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2275-07-06-02-at-14h19m38-s_MG_1471.npy",
+    "brightness_correction": 1.4177043648370506,
+    "contrast_correction": 1.0490839400128842,
+    "color_correction": 0.8986007422050452
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3941-dvf_081.npy",
+    "brightness_correction": 0.9402960458387122,
+    "contrast_correction": 0.7931631581798503,
+    "color_correction": 1.4837726042498791
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3866-WP_CRW_6303.npy",
+    "brightness_correction": 0.7548242947657118,
+    "contrast_correction": 1.0740930801133266,
+    "color_correction": 1.4628161593762823
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3147-kme_089.npy",
+    "brightness_correction": 1.318709857187166,
+    "contrast_correction": 1.2356304183960731,
+    "color_correction": 1.333212231083109
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0989-DSC_0359.npy",
+    "brightness_correction": 1.594155872100987,
+    "contrast_correction": 0.8497163386429049,
+    "color_correction": 1.310067163368523
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4424-DSC_0399.npy",
+    "brightness_correction": 1.165465980681561,
+    "contrast_correction": 0.9585411406137488,
+    "color_correction": 1.011437944888576
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0783-_DSC0056.npy",
+    "brightness_correction": 1.1426985809827923,
+    "contrast_correction": 0.9283087976376909,
+    "color_correction": 0.8184025057224754
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2117-20050510_213735__MG_1270.npy",
+    "brightness_correction": 0.9418313780545833,
+    "contrast_correction": 1.029587812327803,
+    "color_correction": 1.2493982059174535
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0042-060813_155838__MG_6361.npy",
+    "brightness_correction": 0.9115354412307426,
+    "contrast_correction": 0.9732098148668695,
+    "color_correction": 1.3652373092334158
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4152-LS_060719_7330.npy",
+    "brightness_correction": 1.214411436372922,
+    "contrast_correction": 0.8612473415156281,
+    "color_correction": 0.7711765415113343
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1132-20061213_164642__MG_6076.npy",
+    "brightness_correction": 1.1496847289002343,
+    "contrast_correction": 0.8093783600226754,
+    "color_correction": 1.2067106192420622
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3825-NKIM_MG_3084.npy",
+    "brightness_correction": 0.8028318775114436,
+    "contrast_correction": 1.0076449121164568,
+    "color_correction": 0.966902398593871
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2480-IMG_0287.npy",
+    "brightness_correction": 0.884487321275215,
+    "contrast_correction": 0.9084239516569266,
+    "color_correction": 1.1240217291353527
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1146-_DSC0027-2.npy",
+    "brightness_correction": 0.9849709802240619,
+    "contrast_correction": 1.3552510635225876,
+    "color_correction": 1.104001865098776
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1395-jmac_DSC3020.npy",
+    "brightness_correction": 0.897799726942164,
+    "contrast_correction": 0.7819512331434104,
+    "color_correction": 1.3543534065037048
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1059-kme_594.npy",
+    "brightness_correction": 1.2792630712408075,
+    "contrast_correction": 1.0262093212966001,
+    "color_correction": 1.3740116320593059
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1454-DSC_0028-1.npy",
+    "brightness_correction": 0.9611948199373666,
+    "contrast_correction": 1.1396945752762904,
+    "color_correction": 0.7928235406416947
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0869-20080629_at_19h10m02__MG_1342.npy",
+    "brightness_correction": 1.1825582249109374,
+    "contrast_correction": 1.039826969543671,
+    "color_correction": 0.7468158444545504
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1998-20080426_112951__MG_9254.npy",
+    "brightness_correction": 1.500659250706193,
+    "contrast_correction": 0.8195508813107698,
+    "color_correction": 0.9967042924742514
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3395-jmac_DSC1018.npy",
+    "brightness_correction": 1.089269467831288,
+    "contrast_correction": 0.7906701979679768,
+    "color_correction": 0.7413000897887261
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1332-_DSC0030.npy",
+    "brightness_correction": 1.322922136224127,
+    "contrast_correction": 0.830559479429113,
+    "color_correction": 1.241773307525739
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3585-IMG_4211.npy",
+    "brightness_correction": 1.630322988277511,
+    "contrast_correction": 0.877156515760753,
+    "color_correction": 1.1138889668745897
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0118-20051223_103622__MG_0617.npy",
+    "brightness_correction": 0.9252841903375918,
+    "contrast_correction": 1.264122276026255,
+    "color_correction": 0.7987550038774488
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1378-dgw_039.npy",
+    "brightness_correction": 0.9803573838675684,
+    "contrast_correction": 0.8473456098951778,
+    "color_correction": 1.1063668805866822
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3382-IMG_4032.npy",
+    "brightness_correction": 1.2749591809753609,
+    "contrast_correction": 0.7884581708836151,
+    "color_correction": 0.9788480225235706
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2870-NKIM_MG_7449.npy",
+    "brightness_correction": 1.1116327187305246,
+    "contrast_correction": 1.3156460614063945,
+    "color_correction": 1.3055770077556157
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2552-NKIM_MG_1872.npy",
+    "brightness_correction": 0.9029752245689251,
+    "contrast_correction": 0.9337847991871016,
+    "color_correction": 0.8062779023073128
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2335-IMG_2841.npy",
+    "brightness_correction": 0.8327203504630031,
+    "contrast_correction": 1.2638539751755171,
+    "color_correction": 0.7636301928917494
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3543-jmac_DSC3389.npy",
+    "brightness_correction": 0.9193437289248221,
+    "contrast_correction": 0.8230607682733072,
+    "color_correction": 1.183579072251333
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0999-WP_CRW_5915.npy",
+    "brightness_correction": 0.7313975906963897,
+    "contrast_correction": 0.7878113204913549,
+    "color_correction": 1.1661161599183318
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1847-20051222_141305__MG_0341.npy",
+    "brightness_correction": 0.7571367927477554,
+    "contrast_correction": 0.7792985154557043,
+    "color_correction": 0.7839318146834301
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1143-jn_20080821_NYC_014.npy",
+    "brightness_correction": 1.0262690836880937,
+    "contrast_correction": 1.279309088556187,
+    "color_correction": 0.7652864059494319
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0355-jmac_DSC2202.npy",
+    "brightness_correction": 1.6658812312896691,
+    "contrast_correction": 1.1753677550433212,
+    "color_correction": 0.9624359654802922
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1006-_MG_7950.npy",
+    "brightness_correction": 1.177462038158088,
+    "contrast_correction": 0.7975554660195172,
+    "color_correction": 0.9266276859519221
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1321-MB_20030906_084.npy",
+    "brightness_correction": 0.7313038858414596,
+    "contrast_correction": 1.359557685264863,
+    "color_correction": 1.066936535763988
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1100-_DGW6248.npy",
+    "brightness_correction": 1.3985363541157418,
+    "contrast_correction": 0.8378965523335247,
+    "color_correction": 0.8437287384096803
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2458-DSC_0219.npy",
+    "brightness_correction": 0.802831992362617,
+    "contrast_correction": 0.7870629718423316,
+    "color_correction": 1.2199225892105172
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3204-MB_080329_075.npy",
+    "brightness_correction": 0.8136363634481024,
+    "contrast_correction": 0.9194127592854974,
+    "color_correction": 1.0826028520072608
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1785-kme_270.npy",
+    "brightness_correction": 1.325035013191828,
+    "contrast_correction": 0.8329186675921627,
+    "color_correction": 1.4298539121106504
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3341-jmac_DSC2590.npy",
+    "brightness_correction": 0.7295617603983874,
+    "contrast_correction": 1.1550935799962392,
+    "color_correction": 0.784407885177898
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1981-WP_CRW_7751.npy",
+    "brightness_correction": 1.431071433591862,
+    "contrast_correction": 0.8742840775268851,
+    "color_correction": 0.762753947332748
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3440-kme_407.npy",
+    "brightness_correction": 1.386045644544225,
+    "contrast_correction": 1.035165811177468,
+    "color_correction": 0.8924056428182803
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2583-_I2E6089.npy",
+    "brightness_correction": 0.8274942058346865,
+    "contrast_correction": 1.4155054598062649,
+    "color_correction": 1.365925389062963
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1107-kme_291.npy",
+    "brightness_correction": 1.1779555431838054,
+    "contrast_correction": 1.3130815430073512,
+    "color_correction": 0.917446330495212
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2771-jmac_DSC5800.npy",
+    "brightness_correction": 1.023659361901335,
+    "contrast_correction": 0.9121983038242772,
+    "color_correction": 1.1639064904960652
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2138-LSstone_060806_8897.npy",
+    "brightness_correction": 1.4287926989645718,
+    "contrast_correction": 0.872793004410775,
+    "color_correction": 1.0329968093302109
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3220-IMG_4829.npy",
+    "brightness_correction": 1.5236419255858884,
+    "contrast_correction": 0.7767619087057759,
+    "color_correction": 0.7767869251447392
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0722-tc_DSC1969.npy",
+    "brightness_correction": 1.1453418773009962,
+    "contrast_correction": 1.158397310696092,
+    "color_correction": 0.7453944395925804
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1784-jmacdscf0038 (1).npy",
+    "brightness_correction": 1.1047265666342452,
+    "contrast_correction": 0.8099329866555918,
+    "color_correction": 1.3717678903962802
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4483-_DGW0262.npy",
+    "brightness_correction": 1.027516324510564,
+    "contrast_correction": 0.9514864241383305,
+    "color_correction": 0.7915339894134813
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3076-dgw_036.npy",
+    "brightness_correction": 0.8671902183310599,
+    "contrast_correction": 0.8498535166459212,
+    "color_correction": 0.8467962124961923
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1884-kme_462.npy",
+    "brightness_correction": 1.2825334956135432,
+    "contrast_correction": 1.312628630568266,
+    "color_correction": 0.7416616566225291
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4795-Duggan_050704_0601.npy",
+    "brightness_correction": 0.9236571036392777,
+    "contrast_correction": 0.943905410764356,
+    "color_correction": 1.106458371429705
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1484-_DSC4591.npy",
+    "brightness_correction": 0.7719092764987694,
+    "contrast_correction": 0.9099625154995523,
+    "color_correction": 0.8092602799191553
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1776-dgw_142.npy",
+    "brightness_correction": 0.7296098479042904,
+    "contrast_correction": 1.0493130207916341,
+    "color_correction": 0.9118746674656271
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0433-dgw_008.npy",
+    "brightness_correction": 0.773913664351504,
+    "contrast_correction": 1.151911643796682,
+    "color_correction": 0.8644262728637825
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2008-MB_040516_072.npy",
+    "brightness_correction": 1.2184831580922377,
+    "contrast_correction": 1.1750847030801816,
+    "color_correction": 0.9945533423823779
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3462-dgw_051.npy",
+    "brightness_correction": 1.0687000040245342,
+    "contrast_correction": 0.8321006120592404,
+    "color_correction": 0.7472944423083169
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0052-dgw_131.npy",
+    "brightness_correction": 1.5004320761311176,
+    "contrast_correction": 1.3146156783372887,
+    "color_correction": 0.823591588304971
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1398-kme_077.npy",
+    "brightness_correction": 1.2591360149251902,
+    "contrast_correction": 1.003023464218564,
+    "color_correction": 0.9400624570543793
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2754-_DSC7455.npy",
+    "brightness_correction": 0.8830000322540021,
+    "contrast_correction": 1.3116830905205414,
+    "color_correction": 0.8356694828167146
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4012-kme_316.npy",
+    "brightness_correction": 0.857027816454297,
+    "contrast_correction": 0.9648761386308117,
+    "color_correction": 0.8089381724705925
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0283-jn_20071207_Xmas_House_0121.npy",
+    "brightness_correction": 1.1102995167056957,
+    "contrast_correction": 0.9887479774607741,
+    "color_correction": 0.7706118452801582
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1518-WP_CRW_6308.npy",
+    "brightness_correction": 1.10366775546757,
+    "contrast_correction": 0.9425093915259153,
+    "color_correction": 0.9405213152251527
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2834-kme_039.npy",
+    "brightness_correction": 0.8097953005522704,
+    "contrast_correction": 0.7858898898117684,
+    "color_correction": 0.9497236552228532
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4641-_DSC0021.npy",
+    "brightness_correction": 1.4409664347173872,
+    "contrast_correction": 0.8632459532764244,
+    "color_correction": 1.1080448071652182
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2183-dgw_126.npy",
+    "brightness_correction": 0.8786670502617943,
+    "contrast_correction": 0.8049755448065944,
+    "color_correction": 1.0578870184558096
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1423-20080624_at_19h53m25__MG_0078.npy",
+    "brightness_correction": 1.092900857123558,
+    "contrast_correction": 0.8721544806123632,
+    "color_correction": 1.1196789976691814
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0169-jn_20081025_Kent_Shelter_168.npy",
+    "brightness_correction": 0.8126717757209451,
+    "contrast_correction": 0.8255321780797079,
+    "color_correction": 0.9511657739900105
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2319-LSYD4O2499.npy",
+    "brightness_correction": 0.982113442888787,
+    "contrast_correction": 0.7910652653693797,
+    "color_correction": 0.820201584761582
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4346-_DSC0062.npy",
+    "brightness_correction": 0.9070338557845782,
+    "contrast_correction": 0.8572076646187606,
+    "color_correction": 0.8941761677315255
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2502-jmac_DSC4005.npy",
+    "brightness_correction": 1.611571192062117,
+    "contrast_correction": 0.9613924053102566,
+    "color_correction": 1.499472718819771
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2959-JI2E3589.npy",
+    "brightness_correction": 0.7370501361018389,
+    "contrast_correction": 1.317032821586969,
+    "color_correction": 0.7725176625301513
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1236-JI2E4599.npy",
+    "brightness_correction": 0.8054667369619997,
+    "contrast_correction": 0.8791715653589959,
+    "color_correction": 0.8034703114366852
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3691-_MG_6475.npy",
+    "brightness_correction": 1.2456226013253913,
+    "contrast_correction": 0.8396157162808788,
+    "color_correction": 1.122542576816308
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0418-07-11-19-at-13h26m20s-_MG_5018.npy",
+    "brightness_correction": 0.7252348698454304,
+    "contrast_correction": 1.177550263784242,
+    "color_correction": 1.0392796874576642
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0995-IMG_4613.npy",
+    "brightness_correction": 1.5668104663156297,
+    "contrast_correction": 1.0257223011570245,
+    "color_correction": 0.7442231631828627
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2644-NKIM_043.npy",
+    "brightness_correction": 1.2337469901687679,
+    "contrast_correction": 0.8502066661002375,
+    "color_correction": 1.255387632881418
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2990-DSC_0028-1-2.npy",
+    "brightness_correction": 0.8219310108113702,
+    "contrast_correction": 0.9724158399562925,
+    "color_correction": 1.142443505804934
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2457-LSCRW_0033.npy",
+    "brightness_correction": 1.0857094920049255,
+    "contrast_correction": 1.0999605841978548,
+    "color_correction": 0.819115792554563
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0312-_DSC5579.npy",
+    "brightness_correction": 0.7838367367734352,
+    "contrast_correction": 0.8237314963162563,
+    "color_correction": 1.1316899027465228
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0813-jmac_MG_4813.npy",
+    "brightness_correction": 0.9148108206949052,
+    "contrast_correction": 0.8741903718507608,
+    "color_correction": 0.8094773905981648
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3118-050630_133740__I2E9110.npy",
+    "brightness_correction": 1.278679602572672,
+    "contrast_correction": 0.8352754418535396,
+    "color_correction": 1.387138171469507
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1625-20081226_at_17h39m38__MG_3987.npy",
+    "brightness_correction": 0.8492190126477439,
+    "contrast_correction": 0.9227892604348121,
+    "color_correction": 1.1506856962241099
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1538-_DSC3314.npy",
+    "brightness_correction": 1.0022509007348084,
+    "contrast_correction": 1.2319590570205623,
+    "color_correction": 1.089458167621666
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3675-jmac_DSC3230.npy",
+    "brightness_correction": 1.2319150048585035,
+    "contrast_correction": 0.8893334356707092,
+    "color_correction": 1.1167996750963727
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3451-IMG_1088.npy",
+    "brightness_correction": 0.8033948252236915,
+    "contrast_correction": 0.8081016140279332,
+    "color_correction": 0.84865178629743
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1278-kme_467.npy",
+    "brightness_correction": 0.7312899460213933,
+    "contrast_correction": 1.1189989766038915,
+    "color_correction": 1.373557654646019
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0106-NKIM_120.npy",
+    "brightness_correction": 0.9385463603182823,
+    "contrast_correction": 0.8030205162803432,
+    "color_correction": 0.8770700305446201
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2380-20060208_203256__MG_2849.npy",
+    "brightness_correction": 0.9538451204782218,
+    "contrast_correction": 0.8665043122792656,
+    "color_correction": 0.9739203117924216
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3824-LS051025_day_3_LL001.npy",
+    "brightness_correction": 1.0888774602966647,
+    "contrast_correction": 0.8949493650403134,
+    "color_correction": 1.2673729446266822
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1275-20080809_at_14h45m40__MG_0065.npy",
+    "brightness_correction": 1.4871352968093727,
+    "contrast_correction": 0.9444818196820303,
+    "color_correction": 0.7912311739077476
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0671-IMG_0621.npy",
+    "brightness_correction": 1.0825912410791338,
+    "contrast_correction": 1.1654712444458128,
+    "color_correction": 0.8687178999476309
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4564-Duggan_090406_7253.npy",
+    "brightness_correction": 0.9744098516571669,
+    "contrast_correction": 1.0660366604356104,
+    "color_correction": 0.7722718402721405
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3589-DSC_0022.npy",
+    "brightness_correction": 1.4643414810747413,
+    "contrast_correction": 0.7851481531506737,
+    "color_correction": 0.8195370015106425
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4128-kme_388.npy",
+    "brightness_correction": 0.7633815736340488,
+    "contrast_correction": 1.1411000374962181,
+    "color_correction": 0.9532209240676532
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2538-kme_247.npy",
+    "brightness_correction": 1.5020218394547673,
+    "contrast_correction": 0.7694300311302478,
+    "color_correction": 1.041910605807968
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2531-Ja_Pe-42.npy",
+    "brightness_correction": 1.5807320804065135,
+    "contrast_correction": 0.9720134676447316,
+    "color_correction": 0.8950428619994908
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0688-IMG_4426.npy",
+    "brightness_correction": 1.2209555481608045,
+    "contrast_correction": 1.0033151977954455,
+    "color_correction": 0.8108500984563192
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1511-jmac_MG_6757.npy",
+    "brightness_correction": 0.7211834030211637,
+    "contrast_correction": 1.1803434436883329,
+    "color_correction": 1.2374968633532752
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1050-IMG_1683.npy",
+    "brightness_correction": 0.8942016058695452,
+    "contrast_correction": 1.2054280073458252,
+    "color_correction": 1.5181582782380525
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3036-20090127_at_17h54m33__MG_4036.npy",
+    "brightness_correction": 1.2579499908336869,
+    "contrast_correction": 1.4035789564391346,
+    "color_correction": 0.9271669903584305
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3646-kme_405.npy",
+    "brightness_correction": 0.787187995281249,
+    "contrast_correction": 1.0540567696485588,
+    "color_correction": 0.965382999295018
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0893-IMG_5821.npy",
+    "brightness_correction": 0.9483450115438675,
+    "contrast_correction": 1.0555269010072401,
+    "color_correction": 0.8041601825870787
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2311-kme_559.npy",
+    "brightness_correction": 0.9392171614866638,
+    "contrast_correction": 0.9290631784996813,
+    "color_correction": 0.7861493696360942
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0469-NKIM_103.npy",
+    "brightness_correction": 0.7229064425601959,
+    "contrast_correction": 0.8710227275997137,
+    "color_correction": 0.8735744303038229
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2878-CRW_0013.npy",
+    "brightness_correction": 0.7217439307064352,
+    "contrast_correction": 0.8459838578142315,
+    "color_correction": 1.1983365100386199
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1940-jmac_MG_6206.npy",
+    "brightness_correction": 1.1158437746326726,
+    "contrast_correction": 0.8064309865483029,
+    "color_correction": 0.7657873648863905
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0518-DSC_0113.npy",
+    "brightness_correction": 1.1680553970751995,
+    "contrast_correction": 1.0937993026804642,
+    "color_correction": 0.7571950003702359
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4050-_DSC0028-2.npy",
+    "brightness_correction": 1.413239313109453,
+    "contrast_correction": 0.8223908609980235,
+    "color_correction": 0.7460576143979015
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0625-IMG_1324.npy",
+    "brightness_correction": 1.2538928904833508,
+    "contrast_correction": 0.9775503079155222,
+    "color_correction": 1.3511043688315607
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4023-NKIM_MG_3314.npy",
+    "brightness_correction": 0.7221213394670484,
+    "contrast_correction": 0.8543130071576728,
+    "color_correction": 0.9948093988871312
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0084-_MG_1610.npy",
+    "brightness_correction": 1.0197940309661766,
+    "contrast_correction": 1.1260109017820885,
+    "color_correction": 0.8229927736581929
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0817-20061111_075425__E6B4010.npy",
+    "brightness_correction": 0.923128104903027,
+    "contrast_correction": 0.8833424811617309,
+    "color_correction": 0.867833192034281
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3513-CRW_0153.npy",
+    "brightness_correction": 0.8960792123882076,
+    "contrast_correction": 0.9685758210319331,
+    "color_correction": 0.7465171470125022
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0128-IMG_0793.npy",
+    "brightness_correction": 1.0285641008393238,
+    "contrast_correction": 0.9573450215796825,
+    "color_correction": 1.4550935883453344
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3328-DSC_0157.npy",
+    "brightness_correction": 0.913204686510992,
+    "contrast_correction": 1.0017231964072348,
+    "color_correction": 1.0467598345168316
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0165-_MG_1166.npy",
+    "brightness_correction": 0.7339281430171566,
+    "contrast_correction": 1.2456329532112183,
+    "color_correction": 0.9597195063979437
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2778-kme_117.npy",
+    "brightness_correction": 0.9549303132908061,
+    "contrast_correction": 1.3614194913652504,
+    "color_correction": 1.1194169726369458
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4002-IMG_4605.npy",
+    "brightness_correction": 0.7727606694569868,
+    "contrast_correction": 1.267864088482993,
+    "color_correction": 0.8869927688157252
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2769-_DSC9755.npy",
+    "brightness_correction": 1.5329659556135717,
+    "contrast_correction": 0.8839222074224768,
+    "color_correction": 0.9534455983725739
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0919-07-10-06-at-17h40m18s-_MG_3916.npy",
+    "brightness_correction": 0.7364416119024025,
+    "contrast_correction": 0.8797734189789651,
+    "color_correction": 0.8699218612482066
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1434-IMG_1886.npy",
+    "brightness_correction": 1.0074066013398126,
+    "contrast_correction": 0.8908442391271871,
+    "color_correction": 0.7634032384734482
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0214-IMG_1676.npy",
+    "brightness_correction": 0.71996040348023,
+    "contrast_correction": 1.2060944186763836,
+    "color_correction": 1.0346844796260872
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4473-_DSC0041.npy",
+    "brightness_correction": 0.9701988290045249,
+    "contrast_correction": 0.9051407326920591,
+    "color_correction": 1.1345930628709706
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3301-IMG_5187.npy",
+    "brightness_correction": 0.9470720346456148,
+    "contrast_correction": 0.815939396287684,
+    "color_correction": 0.7619701022647213
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4448-Duggan_080119_4778.npy",
+    "brightness_correction": 1.3978458680745292,
+    "contrast_correction": 0.9767842146758625,
+    "color_correction": 0.8873703334292545
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1927-_DSC0353.npy",
+    "brightness_correction": 1.174305894628861,
+    "contrast_correction": 1.4203229940359396,
+    "color_correction": 0.9287499238557643
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4073-JI2E4553.npy",
+    "brightness_correction": 0.8549266641401209,
+    "contrast_correction": 1.0928845791209996,
+    "color_correction": 1.3628093212711718
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1034-_I2E8160.npy",
+    "brightness_correction": 0.7236502241219072,
+    "contrast_correction": 0.9360576440238465,
+    "color_correction": 0.979585069541555
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1727-20080624_at_20h59m16__78U8233.npy",
+    "brightness_correction": 0.8443775994719835,
+    "contrast_correction": 0.8775518532476058,
+    "color_correction": 1.213357111568191
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3317-Ja_Pe-94.npy",
+    "brightness_correction": 0.9248808318728151,
+    "contrast_correction": 0.8655815837563869,
+    "color_correction": 1.289426518946458
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4919-_DGW9626.npy",
+    "brightness_correction": 1.3422990423140775,
+    "contrast_correction": 0.9177307532541192,
+    "color_correction": 1.0035298807033135
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3391-050904_125814__I2E8654.npy",
+    "brightness_correction": 1.4376076624677416,
+    "contrast_correction": 1.327204417307499,
+    "color_correction": 0.7620191387550921
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3363-kme_226.npy",
+    "brightness_correction": 0.944106700872984,
+    "contrast_correction": 0.7877626217937915,
+    "color_correction": 1.085521982689133
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1383-_DGW6387.npy",
+    "brightness_correction": 1.079844396974174,
+    "contrast_correction": 0.8945751799123257,
+    "color_correction": 1.33876577288933
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1339-IMG_3445.npy",
+    "brightness_correction": 1.1433324167263874,
+    "contrast_correction": 1.3201006794307393,
+    "color_correction": 1.1128299804075366
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1863-Ja_Pe-51.npy",
+    "brightness_correction": 0.8577724417078262,
+    "contrast_correction": 0.8147046238251061,
+    "color_correction": 1.0002227730746465
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0867-kme_254.npy",
+    "brightness_correction": 1.3375186889188977,
+    "contrast_correction": 1.062861166960682,
+    "color_correction": 1.2366317888429224
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1341-IMG_4364.npy",
+    "brightness_correction": 0.7201970824571013,
+    "contrast_correction": 0.9260936556323071,
+    "color_correction": 1.1263745888731747
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3678-kme_363.npy",
+    "brightness_correction": 0.832326004229613,
+    "contrast_correction": 0.9858818133192563,
+    "color_correction": 1.505388085424278
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1066-IMG_4517.npy",
+    "brightness_correction": 0.9217205406432373,
+    "contrast_correction": 0.7756711827604893,
+    "color_correction": 1.4463358617706616
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3552-MB_080629_691.npy",
+    "brightness_correction": 1.1129442720793679,
+    "contrast_correction": 1.2482713515942105,
+    "color_correction": 0.7549905843782371
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0745-NKIM_117.npy",
+    "brightness_correction": 0.9772336099245391,
+    "contrast_correction": 1.4228867609184506,
+    "color_correction": 1.0877516870666555
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1892-kme_365.npy",
+    "brightness_correction": 1.6073995756241781,
+    "contrast_correction": 0.8044489065178347,
+    "color_correction": 0.9575285422977949
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0556-07-08-10-at-19h09m19s-N0000107.npy",
+    "brightness_correction": 0.7767069323453728,
+    "contrast_correction": 0.7852825357705596,
+    "color_correction": 1.2788746444944494
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1756-NKIM_MG_0330.npy",
+    "brightness_correction": 0.9118281196483425,
+    "contrast_correction": 1.2359839068956004,
+    "color_correction": 1.2455445313925781
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2728-DSC_0147.npy",
+    "brightness_correction": 1.1412940658400004,
+    "contrast_correction": 0.8174888616438732,
+    "color_correction": 0.7758973744433212
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0344-DSC_0009.npy",
+    "brightness_correction": 0.9261191725071108,
+    "contrast_correction": 0.9574957973366638,
+    "color_correction": 0.7849258220514436
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0112-kme_093.npy",
+    "brightness_correction": 0.8582998064177024,
+    "contrast_correction": 0.8144627959405184,
+    "color_correction": 1.291581817962697
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2842-_DSC2876.npy",
+    "brightness_correction": 1.390666231190698,
+    "contrast_correction": 0.8393505890449771,
+    "color_correction": 1.4897819573201854
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2312-IMG_4734.npy",
+    "brightness_correction": 1.5847372685710128,
+    "contrast_correction": 0.9779435508077773,
+    "color_correction": 0.7572189704592541
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2456-IMG_1681.npy",
+    "brightness_correction": 0.7393369812979426,
+    "contrast_correction": 0.8443643193462007,
+    "color_correction": 1.1518537873565993
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1614-Ja_Pe-8.npy",
+    "brightness_correction": 1.2002716145329855,
+    "contrast_correction": 1.0995869357331391,
+    "color_correction": 1.2881755131239694
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0111-IMG_4425.npy",
+    "brightness_correction": 0.9854245088586916,
+    "contrast_correction": 0.8063616377036373,
+    "color_correction": 1.0016469734507971
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4744-_DSC0038.npy",
+    "brightness_correction": 0.9235292853719765,
+    "contrast_correction": 0.7701756305409936,
+    "color_correction": 0.7727978865576625
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2618-jn_20080524_098.npy",
+    "brightness_correction": 0.7406010634291952,
+    "contrast_correction": 0.7954412421035527,
+    "color_correction": 0.9675050804801444
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3890-IMG_4308.npy",
+    "brightness_correction": 1.0976024596250684,
+    "contrast_correction": 1.0322459722150656,
+    "color_correction": 1.367115412329434
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1915-07-11-27-at-19h34m28s-_MG_7389.npy",
+    "brightness_correction": 0.95824956860773,
+    "contrast_correction": 1.1074119056069016,
+    "color_correction": 1.1037704764300995
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4395-Duggan_090503_8734.npy",
+    "brightness_correction": 1.2633263803213746,
+    "contrast_correction": 0.8399470053222555,
+    "color_correction": 1.2790371328621848
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3171-jmac_DSC0972.npy",
+    "brightness_correction": 1.0829217496508652,
+    "contrast_correction": 1.092904722417,
+    "color_correction": 0.774217113896195
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1657-050818_154112__I2E7371.npy",
+    "brightness_correction": 0.7479992598868135,
+    "contrast_correction": 0.8427834517923103,
+    "color_correction": 0.7771410825770013
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2930-WP_CRW_0548.npy",
+    "brightness_correction": 0.8575520702926713,
+    "contrast_correction": 0.8309531220989906,
+    "color_correction": 1.3905377207677285
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2875-IMG_2969.npy",
+    "brightness_correction": 0.9843730366726183,
+    "contrast_correction": 0.9106576044950008,
+    "color_correction": 1.1436581681186178
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1377-kme_323.npy",
+    "brightness_correction": 1.0924807547934616,
+    "contrast_correction": 0.9729247945985559,
+    "color_correction": 1.2647782039575153
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1593-_MG_3087.npy",
+    "brightness_correction": 1.1678789343274345,
+    "contrast_correction": 1.032265798302251,
+    "color_correction": 1.268023269019261
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0119-kme_120.npy",
+    "brightness_correction": 0.7377907667704965,
+    "contrast_correction": 1.046253266722245,
+    "color_correction": 1.0475622849112576
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4178-IMG_0487.npy",
+    "brightness_correction": 1.5017019287000821,
+    "contrast_correction": 1.3999710399412266,
+    "color_correction": 1.3830819590191934
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1786-kme_520.npy",
+    "brightness_correction": 0.9532866709681708,
+    "contrast_correction": 0.9382641502067696,
+    "color_correction": 1.157235553088265
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1118-jmac_MG_1307.npy",
+    "brightness_correction": 0.7174476666394888,
+    "contrast_correction": 0.8602561513144926,
+    "color_correction": 0.8406258216938831
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4631-Duggan_080811_0493.npy",
+    "brightness_correction": 0.8627224607050101,
+    "contrast_correction": 0.9837387222920065,
+    "color_correction": 1.472444426134454
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2000-kme_458.npy",
+    "brightness_correction": 0.7366895570600366,
+    "contrast_correction": 1.130873888255712,
+    "color_correction": 0.9423037751360007
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0904-DSC_0110.npy",
+    "brightness_correction": 0.7574488987485734,
+    "contrast_correction": 0.974970347735375,
+    "color_correction": 0.9102057458565388
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2516-jmac_DSC3843.npy",
+    "brightness_correction": 0.839344690406208,
+    "contrast_correction": 0.9798395282118548,
+    "color_correction": 1.4640317750804477
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2237-CRW_1174.npy",
+    "brightness_correction": 1.1871454873818792,
+    "contrast_correction": 1.2300979281242026,
+    "color_correction": 0.754756297731471
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3224-DSC_0028.npy",
+    "brightness_correction": 1.5577580768749786,
+    "contrast_correction": 0.8366544657741324,
+    "color_correction": 0.7926482553720713
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3294-050819_075702__MG_5121.npy",
+    "brightness_correction": 0.8397489667576447,
+    "contrast_correction": 0.9858134901555536,
+    "color_correction": 1.290650518591438
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2205-jmac_MG_5745.npy",
+    "brightness_correction": 1.1152509973139484,
+    "contrast_correction": 0.8932480437342498,
+    "color_correction": 0.7767210663335259
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1717-kme_510.npy",
+    "brightness_correction": 1.4729263159813433,
+    "contrast_correction": 0.7874148550141238,
+    "color_correction": 0.7845295456313429
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1598-WP_CRW_0386.npy",
+    "brightness_correction": 0.8547531164816721,
+    "contrast_correction": 1.344487038436595,
+    "color_correction": 1.2617886334623791
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4187-IMG_5110.npy",
+    "brightness_correction": 1.3065242344922103,
+    "contrast_correction": 0.9222942343340461,
+    "color_correction": 1.513054108852433
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1224-_DGW6318.npy",
+    "brightness_correction": 0.747569052609923,
+    "contrast_correction": 1.214155248228723,
+    "color_correction": 0.8829455553936926
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1441-dgw_132.npy",
+    "brightness_correction": 0.7465752044672304,
+    "contrast_correction": 1.4227923088835692,
+    "color_correction": 1.2220887613319753
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0025-kme_298.npy",
+    "brightness_correction": 0.7994178970259259,
+    "contrast_correction": 0.8341797316242416,
+    "color_correction": 0.7467806052056412
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1954-_DGW6380.npy",
+    "brightness_correction": 0.7195961304636259,
+    "contrast_correction": 0.8361600233126182,
+    "color_correction": 1.0986009222312505
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1559-jmac_MG_0089.npy",
+    "brightness_correction": 0.7872590941510684,
+    "contrast_correction": 1.3757919765603033,
+    "color_correction": 1.3348130294981138
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2362-20051223_084128__MG_0542.npy",
+    "brightness_correction": 1.2548019225245413,
+    "contrast_correction": 0.9081664919115645,
+    "color_correction": 0.789040945336244
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3388-jmac_DSC2214.npy",
+    "brightness_correction": 1.0657884794102386,
+    "contrast_correction": 0.9593947310418682,
+    "color_correction": 0.7970538560248787
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0081-kme_106.npy",
+    "brightness_correction": 0.9083045410509573,
+    "contrast_correction": 1.2151764329747778,
+    "color_correction": 0.7904658859451146
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3015-IMG_4652.npy",
+    "brightness_correction": 0.8408258945608424,
+    "contrast_correction": 1.1579851106863919,
+    "color_correction": 0.882459189281015
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4432-Duggan_081114_3124.npy",
+    "brightness_correction": 1.072144730972556,
+    "contrast_correction": 1.0546477187566778,
+    "color_correction": 1.1839073672264029
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3412-IMG_4112.npy",
+    "brightness_correction": 0.7570821381151013,
+    "contrast_correction": 0.8403115713134446,
+    "color_correction": 1.0083170588850539
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1596-20061223_181102__E6B6806.npy",
+    "brightness_correction": 0.9258370272129607,
+    "contrast_correction": 0.9294351820243669,
+    "color_correction": 1.0789489244781623
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1721-DSC_0004.npy",
+    "brightness_correction": 0.864452609301986,
+    "contrast_correction": 1.0314840682239592,
+    "color_correction": 0.8976063449399302
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0848-_DSC0018.npy",
+    "brightness_correction": 1.284720085131163,
+    "contrast_correction": 0.9237378364173295,
+    "color_correction": 1.3685602920949897
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0256-LS051026_day_2_arive51.npy",
+    "brightness_correction": 0.7565591526602267,
+    "contrast_correction": 1.0069255501111765,
+    "color_correction": 1.2847674235770496
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1704-jmac_DSC4173.npy",
+    "brightness_correction": 1.1602235656112032,
+    "contrast_correction": 0.7898258583701019,
+    "color_correction": 1.2054736976522975
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1909-KE_-0029-2.npy",
+    "brightness_correction": 0.8735726517148164,
+    "contrast_correction": 0.7946778253736868,
+    "color_correction": 1.0767239272080589
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2223-jmac_DSC1311 (1).npy",
+    "brightness_correction": 0.9718096784141802,
+    "contrast_correction": 1.1483391229862931,
+    "color_correction": 0.9532199370047431
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1356-kme_170.npy",
+    "brightness_correction": 1.4560414353317468,
+    "contrast_correction": 1.2959404016613012,
+    "color_correction": 0.8156512136818848
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1670-NKIM_079.npy",
+    "brightness_correction": 0.7649814461917204,
+    "contrast_correction": 0.7873238066646963,
+    "color_correction": 0.9630895999307293
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1700-07-11-22-at-13h30m23s-_MG_6305.npy",
+    "brightness_correction": 1.001628877014959,
+    "contrast_correction": 1.288213205511994,
+    "color_correction": 0.7424506186428945
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0264-KE_-0094.npy",
+    "brightness_correction": 1.0254668640114533,
+    "contrast_correction": 1.3061542883618393,
+    "color_correction": 1.2344893276884041
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0877-_DGW6231.npy",
+    "brightness_correction": 0.7895926714054464,
+    "contrast_correction": 1.2335216967320686,
+    "color_correction": 0.844752280937566
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3071-kme_276.npy",
+    "brightness_correction": 0.8031307379713726,
+    "contrast_correction": 1.1833603806891717,
+    "color_correction": 0.9253051328904978
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0626-20070618_190911__MG_8400.npy",
+    "brightness_correction": 1.052092410183079,
+    "contrast_correction": 1.2728229488232696,
+    "color_correction": 0.9364163613272455
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3008-WP_CRW_8108.npy",
+    "brightness_correction": 1.5801744351159983,
+    "contrast_correction": 0.7935441344906133,
+    "color_correction": 0.842635235061683
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1569-kme_334.npy",
+    "brightness_correction": 1.3312467561493722,
+    "contrast_correction": 1.210274531824357,
+    "color_correction": 1.1460728035005872
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0948-IMG_4197.npy",
+    "brightness_correction": 0.9478303908731718,
+    "contrast_correction": 0.7879266632164489,
+    "color_correction": 1.1249312103493792
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0618-kme_515.npy",
+    "brightness_correction": 0.7351149231400363,
+    "contrast_correction": 0.7980184467931913,
+    "color_correction": 1.117216011104751
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4623-DSC_0037.npy",
+    "brightness_correction": 1.3148907832126338,
+    "contrast_correction": 0.9204025712928081,
+    "color_correction": 1.0823467773038338
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0331-MB_20030906_035.npy",
+    "brightness_correction": 1.3841251646992947,
+    "contrast_correction": 1.1427482757026046,
+    "color_correction": 1.4397716875736741
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2213-dgw_150.npy",
+    "brightness_correction": 1.338382551881506,
+    "contrast_correction": 1.2245845813257512,
+    "color_correction": 0.9004072573372783
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1310-Ja_Pe-3.npy",
+    "brightness_correction": 1.0514171655839515,
+    "contrast_correction": 0.8177936272401017,
+    "color_correction": 1.4314998320124181
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1376-NKIM_122.npy",
+    "brightness_correction": 1.255302244373523,
+    "contrast_correction": 0.983154665890224,
+    "color_correction": 0.9617260053575529
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1113-_DSC0070-2.npy",
+    "brightness_correction": 1.3992065602157597,
+    "contrast_correction": 0.7821629780352704,
+    "color_correction": 1.449907460611857
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0961-WP_Amanda_3rd_bday037.npy",
+    "brightness_correction": 0.8712241320569551,
+    "contrast_correction": 1.0571332965596123,
+    "color_correction": 0.9765704763320964
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1171-_DGW6372.npy",
+    "brightness_correction": 0.9133512941820185,
+    "contrast_correction": 1.2469618629057215,
+    "color_correction": 0.7674830364861689
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3109-050707_161338__I2E9470.npy",
+    "brightness_correction": 1.115700710458343,
+    "contrast_correction": 1.2721159164513642,
+    "color_correction": 1.3837865247408994
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0318-IMG_4318.npy",
+    "brightness_correction": 1.270761750490294,
+    "contrast_correction": 1.0767414827620254,
+    "color_correction": 0.957947852318981
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1802-061006_014724__MG_6933.npy",
+    "brightness_correction": 0.7993829706756552,
+    "contrast_correction": 0.8611652913884728,
+    "color_correction": 1.3628630041157608
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1125-07-11-25-at-10h33m49s-_MG_6884.npy",
+    "brightness_correction": 1.2826852919295344,
+    "contrast_correction": 0.9285292849610053,
+    "color_correction": 0.9573526847519307
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0980-_MG_0509.npy",
+    "brightness_correction": 1.5171301974929658,
+    "contrast_correction": 0.9180059340337752,
+    "color_correction": 0.7766579972586363
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2642-DSC_0039.npy",
+    "brightness_correction": 0.7408676490061651,
+    "contrast_correction": 0.920069773940278,
+    "color_correction": 1.1796237704593933
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1985-IMG_4978.npy",
+    "brightness_correction": 0.9150476420296455,
+    "contrast_correction": 1.0311375440699473,
+    "color_correction": 0.8520437997123911
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2136-050703_180902__I2E9315.npy",
+    "brightness_correction": 0.8723682213406797,
+    "contrast_correction": 0.9367110249776064,
+    "color_correction": 1.1215761927590149
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3453-kme_020.npy",
+    "brightness_correction": 0.7192268108307968,
+    "contrast_correction": 1.0277591913393012,
+    "color_correction": 0.7730373444546396
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4411-Duggan_090131_4857.npy",
+    "brightness_correction": 1.3840632474636392,
+    "contrast_correction": 0.9785953732387227,
+    "color_correction": 1.1085311858273277
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1136-LS051026_day_1_arive31.npy",
+    "brightness_correction": 1.3975734082838591,
+    "contrast_correction": 0.9239958624025079,
+    "color_correction": 1.2952575758828613
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2699-IMG_1695.npy",
+    "brightness_correction": 0.7278571276857748,
+    "contrast_correction": 0.7695360451553102,
+    "color_correction": 0.7890441266720889
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1013-IMG_3366.npy",
+    "brightness_correction": 1.1179898834758022,
+    "contrast_correction": 1.403386110325412,
+    "color_correction": 0.8238485467703909
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4032-IMG_0506.npy",
+    "brightness_correction": 1.3982356683293202,
+    "contrast_correction": 1.0246329531371166,
+    "color_correction": 0.8714748247339816
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1062-_DGW6315.npy",
+    "brightness_correction": 0.9678679262918767,
+    "contrast_correction": 1.195898498829876,
+    "color_correction": 1.0734662429945263
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1844-kme_188.npy",
+    "brightness_correction": 0.7860966058897251,
+    "contrast_correction": 1.0967740516668767,
+    "color_correction": 0.7637571185425677
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1945-_DSC5903.npy",
+    "brightness_correction": 1.0673355029173097,
+    "contrast_correction": 1.051928032148857,
+    "color_correction": 0.8595388803990597
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3272-IMG_4967.npy",
+    "brightness_correction": 1.0469950966092447,
+    "contrast_correction": 1.0717358767245435,
+    "color_correction": 1.105592749679825
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0652-jmac_DSC3908.npy",
+    "brightness_correction": 1.1616981776296877,
+    "contrast_correction": 1.0645887751921412,
+    "color_correction": 0.8648159510580755
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1827-20041031_095520__E6B7730.npy",
+    "brightness_correction": 1.3076475365756584,
+    "contrast_correction": 1.2045644518613454,
+    "color_correction": 1.2760382741478362
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3665-WP_CRW_8114.npy",
+    "brightness_correction": 1.3233087399643186,
+    "contrast_correction": 0.8168842247753005,
+    "color_correction": 0.899662297212595
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1748-DSC_0162.npy",
+    "brightness_correction": 0.9131577809225951,
+    "contrast_correction": 0.8063133707786603,
+    "color_correction": 0.967357618645162
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2068-jmac_DSC2420.npy",
+    "brightness_correction": 0.8256402487596819,
+    "contrast_correction": 1.0582852126743343,
+    "color_correction": 0.908430204690236
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3809-_DSC0088-2.npy",
+    "brightness_correction": 1.2973349755234194,
+    "contrast_correction": 1.2742117856128876,
+    "color_correction": 1.3773058855886635
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2565-07-07-17-at-23h18m11s-_MG_2364.npy",
+    "brightness_correction": 0.8914324802773166,
+    "contrast_correction": 1.1361155440379969,
+    "color_correction": 0.8110158488438612
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1813-IMG_4237.npy",
+    "brightness_correction": 0.8198991967832723,
+    "contrast_correction": 0.9309620391214959,
+    "color_correction": 1.4585338901705593
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4689-IMG_4071.npy",
+    "brightness_correction": 1.2924196175230684,
+    "contrast_correction": 0.9699171993068837,
+    "color_correction": 1.3163029309791334
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1300-kme_042.npy",
+    "brightness_correction": 1.1020104628315532,
+    "contrast_correction": 0.989608600102546,
+    "color_correction": 1.2882934547197167
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2475-DSC_0014.npy",
+    "brightness_correction": 1.0477959746792835,
+    "contrast_correction": 0.8957509259389084,
+    "color_correction": 1.0867445240324067
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2290-IMG_5037.npy",
+    "brightness_correction": 0.882149400869737,
+    "contrast_correction": 1.1574181388140028,
+    "color_correction": 0.8531111587913707
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4111-kme_207.npy",
+    "brightness_correction": 0.9517544225171615,
+    "contrast_correction": 1.260218148554849,
+    "color_correction": 1.0737522419518615
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2867-kme_466.npy",
+    "brightness_correction": 0.8160020417760798,
+    "contrast_correction": 1.2214697498256646,
+    "color_correction": 1.066208552874909
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1904-kme_443.npy",
+    "brightness_correction": 1.0257843084434974,
+    "contrast_correction": 0.819122876046156,
+    "color_correction": 1.348820383137858
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0547-_DSC0445.npy",
+    "brightness_correction": 0.7434933322537728,
+    "contrast_correction": 1.1239380390487441,
+    "color_correction": 0.7673924792417278
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1870-jmac_MG_6385.npy",
+    "brightness_correction": 0.9175491120804948,
+    "contrast_correction": 0.8762778306344513,
+    "color_correction": 0.7916768796232955
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0498-jn_2007_05_08__464.npy",
+    "brightness_correction": 0.8764614241361728,
+    "contrast_correction": 0.8531132228102829,
+    "color_correction": 1.408401031473597
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1021-IMG_5051.npy",
+    "brightness_correction": 1.6476230378508048,
+    "contrast_correction": 0.8214567381913395,
+    "color_correction": 1.4557589876697787
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2284-kme_178.npy",
+    "brightness_correction": 0.7799820780299004,
+    "contrast_correction": 1.1261561458946499,
+    "color_correction": 0.7804801113395179
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4119-_DSC9047.npy",
+    "brightness_correction": 1.311637698140775,
+    "contrast_correction": 1.2652433964518768,
+    "color_correction": 1.2513948375633994
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1903-IMG_0890.npy",
+    "brightness_correction": 0.7858281792067492,
+    "contrast_correction": 1.089604690282833,
+    "color_correction": 0.7773197235464941
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2122-jmacdscf0618.npy",
+    "brightness_correction": 0.9374190156108978,
+    "contrast_correction": 0.8354548975313653,
+    "color_correction": 1.0177483790411308
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3017-WP_CRW_0571.npy",
+    "brightness_correction": 0.8599320540399237,
+    "contrast_correction": 1.1443681935726022,
+    "color_correction": 1.3868670634688451
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0721-IMG_3761.npy",
+    "brightness_correction": 0.9528255636458394,
+    "contrast_correction": 0.8061329077027487,
+    "color_correction": 1.3220311550723296
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0897-kme_241.npy",
+    "brightness_correction": 1.0727902153541768,
+    "contrast_correction": 0.9809854528112323,
+    "color_correction": 0.9235296872236991
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1742-IMG_0057.npy",
+    "brightness_correction": 1.3762269563455698,
+    "contrast_correction": 0.9695627825442361,
+    "color_correction": 1.0217663058376347
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3458-_DSC4587.npy",
+    "brightness_correction": 0.7211664582416965,
+    "contrast_correction": 0.8976836131076006,
+    "color_correction": 0.7796929724360482
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0437-jmacDSC_0011.npy",
+    "brightness_correction": 0.724165513875828,
+    "contrast_correction": 0.9104802572813726,
+    "color_correction": 1.3286345671614654
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3413-20041217_193556__E6B0485.npy",
+    "brightness_correction": 1.0461092410839559,
+    "contrast_correction": 0.8669988195640025,
+    "color_correction": 1.3424276210555182
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4556-_DGW0305.npy",
+    "brightness_correction": 1.1052663221920314,
+    "contrast_correction": 1.0780254877583009,
+    "color_correction": 1.2998482540633118
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0023-07-06-02-at-15h06m48-s_MG_1489.npy",
+    "brightness_correction": 1.6234733581005383,
+    "contrast_correction": 0.8985752113528063,
+    "color_correction": 0.8179516215384511
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2978-WP_CRW_2889.npy",
+    "brightness_correction": 0.7436305746182306,
+    "contrast_correction": 0.9515338855012923,
+    "color_correction": 1.2865317678156094
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2801-MB_050809_018.npy",
+    "brightness_correction": 0.7603461625872722,
+    "contrast_correction": 0.7799228977197815,
+    "color_correction": 0.7618334516022536
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0605-_MG_7197.npy",
+    "brightness_correction": 0.9492832108533609,
+    "contrast_correction": 0.8121086586479686,
+    "color_correction": 0.7454504919008219
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1000-IMG_4380.npy",
+    "brightness_correction": 0.7638295750084891,
+    "contrast_correction": 1.3489196592378108,
+    "color_correction": 1.343254827782198
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1637-jmac_DSC6121.npy",
+    "brightness_correction": 1.1903576748803293,
+    "contrast_correction": 1.0681826872493454,
+    "color_correction": 1.3251348142096533
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2025-IMG_3609.npy",
+    "brightness_correction": 0.717196794666188,
+    "contrast_correction": 0.8513677693889437,
+    "color_correction": 0.8942682450728717
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1573-JI2E3856.npy",
+    "brightness_correction": 0.7303214403639757,
+    "contrast_correction": 1.1205496875282757,
+    "color_correction": 0.871090969579835
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3020-07-09-16-at-11h03m47s-_MG_3425.npy",
+    "brightness_correction": 0.7358300726823512,
+    "contrast_correction": 1.3336114057514419,
+    "color_correction": 0.9328629793884353
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4146-tc_DSC1940.npy",
+    "brightness_correction": 0.8068067801348946,
+    "contrast_correction": 1.4092976308781404,
+    "color_correction": 0.7850936537011278
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0797-07-10-06-at-08h42m41s-_MG_3745.npy",
+    "brightness_correction": 1.070444990503059,
+    "contrast_correction": 1.2477601222807293,
+    "color_correction": 0.8026474664234707
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2360-_DGW6395.npy",
+    "brightness_correction": 1.3269313009813284,
+    "contrast_correction": 1.1518779874448009,
+    "color_correction": 0.9858995414478736
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2657-DSC_0026-2.npy",
+    "brightness_correction": 0.7503338733998396,
+    "contrast_correction": 1.0062736836328166,
+    "color_correction": 0.7787727378009295
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1698-Ja_Pe-70.npy",
+    "brightness_correction": 1.558581978130738,
+    "contrast_correction": 1.1858424306968578,
+    "color_correction": 1.1565436358973666
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1866-IMG_4998.npy",
+    "brightness_correction": 1.0425953861762238,
+    "contrast_correction": 1.041916505975902,
+    "color_correction": 1.4742325886006278
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0299-KE_-2376.npy",
+    "brightness_correction": 0.8333346537641717,
+    "contrast_correction": 0.8651573997869587,
+    "color_correction": 1.0302255116201398
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4718-_DGW9472.npy",
+    "brightness_correction": 1.5055811543722266,
+    "contrast_correction": 0.9701537362753941,
+    "color_correction": 1.3486996995021256
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2558-_I2E6138.npy",
+    "brightness_correction": 0.7232755488134596,
+    "contrast_correction": 0.9306638726800586,
+    "color_correction": 0.858922874696159
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4397-Duggan_080819_1155.npy",
+    "brightness_correction": 1.6250393155082297,
+    "contrast_correction": 1.077118833508874,
+    "color_correction": 0.7793173087998059
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4740-Duggan_080120_4782.npy",
+    "brightness_correction": 1.1061781139465072,
+    "contrast_correction": 1.385828719770317,
+    "color_correction": 0.8925919614346373
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0190-dgw_034.npy",
+    "brightness_correction": 0.8639421758277357,
+    "contrast_correction": 1.109408849726217,
+    "color_correction": 0.8249448666127609
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0101-kme_610.npy",
+    "brightness_correction": 0.779483174254114,
+    "contrast_correction": 0.8543560362078387,
+    "color_correction": 1.0694769373880106
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0604-jn_2007_12_15__BU_CRUISE_257.npy",
+    "brightness_correction": 1.1445537638564018,
+    "contrast_correction": 0.790049326600413,
+    "color_correction": 0.8670154569680287
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0816-jn_20071117-045.npy",
+    "brightness_correction": 0.9597793709464633,
+    "contrast_correction": 1.0067469647638478,
+    "color_correction": 1.1952132603936052
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4342-DSC_0043.npy",
+    "brightness_correction": 0.7514921550367667,
+    "contrast_correction": 0.7991907912613809,
+    "color_correction": 1.4097279742874433
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1272-_DGW6377.npy",
+    "brightness_correction": 0.8826296129343466,
+    "contrast_correction": 1.122122431412152,
+    "color_correction": 0.9938837414299313
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2897-IMG_6046.npy",
+    "brightness_correction": 1.4475546242005675,
+    "contrast_correction": 0.8428483541389385,
+    "color_correction": 0.8234799443620686
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0963-MB_040516_035.npy",
+    "brightness_correction": 1.458492002713622,
+    "contrast_correction": 1.3429149847473618,
+    "color_correction": 1.0972470247875177
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3312-IMG_1063.npy",
+    "brightness_correction": 1.3827339899085724,
+    "contrast_correction": 0.84683023068994,
+    "color_correction": 0.8366704810735611
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4189-IMG_2752.npy",
+    "brightness_correction": 0.7746219476941224,
+    "contrast_correction": 1.41685776679323,
+    "color_correction": 1.5165001520832329
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1373-MB_20041213_002 copy.npy",
+    "brightness_correction": 0.8028330397615576,
+    "contrast_correction": 0.8182664852683131,
+    "color_correction": 0.9240244307828831
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4074-kme_428.npy",
+    "brightness_correction": 1.3793197956488394,
+    "contrast_correction": 0.9296481103285213,
+    "color_correction": 0.7936857123997846
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2673-NKIM_MG_8209.npy",
+    "brightness_correction": 1.032406840057103,
+    "contrast_correction": 0.8169661908528391,
+    "color_correction": 0.8331305056509136
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2847-dvf_040.npy",
+    "brightness_correction": 1.4605657680793684,
+    "contrast_correction": 1.293348118972688,
+    "color_correction": 0.8749646307229513
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2112-KE_-1413.npy",
+    "brightness_correction": 1.316452813447905,
+    "contrast_correction": 0.871354563881985,
+    "color_correction": 1.414809536429427
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1163-IMG_4975.npy",
+    "brightness_correction": 1.4850828497146542,
+    "contrast_correction": 0.7868841193862615,
+    "color_correction": 1.5321237445230345
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0348-07-07-07-at-09h42m42s-_MG_2151.npy",
+    "brightness_correction": 0.8108496984280658,
+    "contrast_correction": 1.1906952668073267,
+    "color_correction": 1.4598560562266405
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2816-IMG_3974.npy",
+    "brightness_correction": 1.507091849952183,
+    "contrast_correction": 1.120770947643889,
+    "color_correction": 0.9798797020694624
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0696-DSC_0004-3.npy",
+    "brightness_correction": 1.0195391749922176,
+    "contrast_correction": 1.2219264649714439,
+    "color_correction": 0.7454060410353265
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3229-_I2E9055.npy",
+    "brightness_correction": 0.9221976344117129,
+    "contrast_correction": 1.2320749602060548,
+    "color_correction": 1.1741989331850102
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3884-KE_-2082.npy",
+    "brightness_correction": 0.8764799066226231,
+    "contrast_correction": 0.8203412230371667,
+    "color_correction": 1.4432379413241858
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3549-KE_-2455.npy",
+    "brightness_correction": 1.3370015703558227,
+    "contrast_correction": 1.4208823542127658,
+    "color_correction": 1.293501023240711
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1939-kme_301.npy",
+    "brightness_correction": 1.3189542700122732,
+    "contrast_correction": 1.2717215396854704,
+    "color_correction": 0.9714407071683194
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2094-Ja_Pe-47.npy",
+    "brightness_correction": 0.7255951654273695,
+    "contrast_correction": 0.8928729179203498,
+    "color_correction": 0.8756508642495606
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4176-kme_069.npy",
+    "brightness_correction": 1.5137208016685595,
+    "contrast_correction": 1.2311801305656467,
+    "color_correction": 1.1428782863110443
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2910-dvf_058.npy",
+    "brightness_correction": 0.717574084535423,
+    "contrast_correction": 1.2539905964945035,
+    "color_correction": 0.913485732734849
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1812-jmac_DSC3519.npy",
+    "brightness_correction": 0.9312317373216608,
+    "contrast_correction": 0.9425671418461404,
+    "color_correction": 0.9953634799491851
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3916-kme_072.npy",
+    "brightness_correction": 1.20725937829573,
+    "contrast_correction": 1.046119228625028,
+    "color_correction": 0.8149109143537727
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1905-DSC_0054.npy",
+    "brightness_correction": 0.8414997210747552,
+    "contrast_correction": 0.9819994521568168,
+    "color_correction": 0.9022099041695363
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1320-MB_060708_069.npy",
+    "brightness_correction": 0.7275313400253579,
+    "contrast_correction": 1.1750868842850108,
+    "color_correction": 0.8488906944397554
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2791-_DGW6374.npy",
+    "brightness_correction": 1.534394990507225,
+    "contrast_correction": 1.355620114753628,
+    "color_correction": 1.122389533510591
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4381-_DGW9028.npy",
+    "brightness_correction": 0.8429348217498088,
+    "contrast_correction": 0.9329165520306866,
+    "color_correction": 0.8180678747443647
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2387-KE_-1488.npy",
+    "brightness_correction": 1.5061119014158881,
+    "contrast_correction": 0.8630657434160391,
+    "color_correction": 0.8686008454536611
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3500-dgw_099.npy",
+    "brightness_correction": 1.640422221247162,
+    "contrast_correction": 0.8721732285849213,
+    "color_correction": 1.4049636643454415
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3891-LS_060719_7304.npy",
+    "brightness_correction": 0.9341334135445511,
+    "contrast_correction": 0.8001280009539519,
+    "color_correction": 1.107375747244509
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3877-KE_-0019.npy",
+    "brightness_correction": 0.8734656957810805,
+    "contrast_correction": 0.9034098324233989,
+    "color_correction": 1.4365439005661709
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1176-jn_2007_05_11__709.npy",
+    "brightness_correction": 1.2346443524716986,
+    "contrast_correction": 0.8306785498739077,
+    "color_correction": 1.0356782181202713
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1245-IMG_0271.npy",
+    "brightness_correction": 0.8376934456559733,
+    "contrast_correction": 1.0118699585731652,
+    "color_correction": 1.0002135940779617
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0002-dgw_005.npy",
+    "brightness_correction": 0.8259479931314188,
+    "contrast_correction": 1.126018590752251,
+    "color_correction": 0.7410875702061016
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2245-20060508_141031__MG_6785.npy",
+    "brightness_correction": 1.3293841038590843,
+    "contrast_correction": 0.9502655021959432,
+    "color_correction": 1.4708269448839715
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1664-jmac_DSC3680.npy",
+    "brightness_correction": 1.1333808202927234,
+    "contrast_correction": 1.0214850067775898,
+    "color_correction": 1.0275927634795028
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1233-DSC_0064.npy",
+    "brightness_correction": 0.7469616496260533,
+    "contrast_correction": 0.8278906672360197,
+    "color_correction": 0.7515444734887284
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2332-_DGW6258.npy",
+    "brightness_correction": 1.0299731599292699,
+    "contrast_correction": 0.8068070358058385,
+    "color_correction": 1.034636007105789
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2582-050623_214616__MG_3266.npy",
+    "brightness_correction": 1.4012150815180695,
+    "contrast_correction": 0.8693148168774049,
+    "color_correction": 1.0596385623106637
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0713-IMG_1505.npy",
+    "brightness_correction": 1.613986532774168,
+    "contrast_correction": 1.2760648759294295,
+    "color_correction": 1.1471751770945646
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3297-IMG_1426.npy",
+    "brightness_correction": 0.7184890253990528,
+    "contrast_correction": 0.9265128696890959,
+    "color_correction": 1.0757398562551403
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2919-_MG_1063.npy",
+    "brightness_correction": 1.6362323846202702,
+    "contrast_correction": 0.8511905564704194,
+    "color_correction": 0.8982785344225044
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4170-jmac_DSC3333.npy",
+    "brightness_correction": 1.3546024724919417,
+    "contrast_correction": 0.9471829044653918,
+    "color_correction": 1.284131025615453
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2856-IMG_5016.npy",
+    "brightness_correction": 1.479559231034816,
+    "contrast_correction": 1.0697761647553707,
+    "color_correction": 1.3246263361828905
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1723-kme_166.npy",
+    "brightness_correction": 1.1496206244085379,
+    "contrast_correction": 1.4025080150008828,
+    "color_correction": 1.0815928459273947
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0786-MB_060708_253.npy",
+    "brightness_correction": 1.1864961951314905,
+    "contrast_correction": 0.7854734806718795,
+    "color_correction": 0.9666224828411959
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0522-kme_253.npy",
+    "brightness_correction": 1.278459413197973,
+    "contrast_correction": 1.0081449412734023,
+    "color_correction": 0.8645953406309607
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2271-tc_DSC9848.npy",
+    "brightness_correction": 1.0567640892954222,
+    "contrast_correction": 0.7883957389817212,
+    "color_correction": 1.3125522108433494
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1212-IMG_8009.npy",
+    "brightness_correction": 0.7271246946149754,
+    "contrast_correction": 1.3589610742254086,
+    "color_correction": 0.7558535614858259
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3023-jmac_DSC2813.npy",
+    "brightness_correction": 1.5301636646798695,
+    "contrast_correction": 1.118606395107047,
+    "color_correction": 1.0165802452851767
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1649-MB_20030906_004.npy",
+    "brightness_correction": 1.20270731637826,
+    "contrast_correction": 1.188931355523163,
+    "color_correction": 0.7631626914608194
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1337-_DGW6225.npy",
+    "brightness_correction": 0.804571487015793,
+    "contrast_correction": 1.0528451976670417,
+    "color_correction": 1.5172726725720496
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1673-_DSC2658.npy",
+    "brightness_correction": 1.1814659071150184,
+    "contrast_correction": 1.2576062572909106,
+    "color_correction": 0.9163204066289862
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3874-kme_308.npy",
+    "brightness_correction": 0.8716525945408001,
+    "contrast_correction": 1.0444971897825732,
+    "color_correction": 1.3600017496274028
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1267-kme_469.npy",
+    "brightness_correction": 1.42137831584253,
+    "contrast_correction": 1.150564910485137,
+    "color_correction": 0.8640579933598118
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2078-jmac_DSC1747.npy",
+    "brightness_correction": 0.8027618683923898,
+    "contrast_correction": 0.8207091025213645,
+    "color_correction": 1.100476499916582
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1231-_DGW6291.npy",
+    "brightness_correction": 0.7265622474677877,
+    "contrast_correction": 1.355243105452534,
+    "color_correction": 1.0384703998574636
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3145-_DSC0012.npy",
+    "brightness_correction": 1.0711220052743595,
+    "contrast_correction": 1.211132350694834,
+    "color_correction": 1.1385107227990334
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0511-LS20050429d650013.npy",
+    "brightness_correction": 1.271050697301078,
+    "contrast_correction": 0.8175784145457743,
+    "color_correction": 1.1510447821063243
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3979-kme_085.npy",
+    "brightness_correction": 0.7504181729308389,
+    "contrast_correction": 0.7791094433342153,
+    "color_correction": 0.8328029094165011
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1286-_I2E6855.npy",
+    "brightness_correction": 0.9578575270875049,
+    "contrast_correction": 0.9557197104249806,
+    "color_correction": 1.1341179485924286
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2622-jmac_MG_5763.npy",
+    "brightness_correction": 1.3236228523734868,
+    "contrast_correction": 1.2881954647738556,
+    "color_correction": 1.142487725700825
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1353-KE_-0027.npy",
+    "brightness_correction": 0.9040402945711962,
+    "contrast_correction": 0.77961681872153,
+    "color_correction": 1.2341889735096578
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2851-kme_340.npy",
+    "brightness_correction": 0.9308665638778494,
+    "contrast_correction": 1.1873513000931377,
+    "color_correction": 0.8171537641103217
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0287-050703_084540__I2E9191.npy",
+    "brightness_correction": 1.0092137826637813,
+    "contrast_correction": 1.0184839300243371,
+    "color_correction": 1.5069816115594106
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1767-_DGW6401.npy",
+    "brightness_correction": 0.9913078430575102,
+    "contrast_correction": 1.3203941822080223,
+    "color_correction": 0.8509663300052264
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1492-jn_2007_05_14__776.npy",
+    "brightness_correction": 0.9100128367127003,
+    "contrast_correction": 1.3354975497167663,
+    "color_correction": 1.0063821391991856
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0808-kme_147.npy",
+    "brightness_correction": 0.9241462416902576,
+    "contrast_correction": 0.8100141441152697,
+    "color_correction": 0.7571221026492971
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2882-060805_172412__MG_5993.npy",
+    "brightness_correction": 1.2303060971083584,
+    "contrast_correction": 1.0312563965963186,
+    "color_correction": 0.8373783925109028
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3234-IMG_1640.npy",
+    "brightness_correction": 0.8110133909729398,
+    "contrast_correction": 1.1550995888580127,
+    "color_correction": 1.3330518792970492
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3265-DSC_0253.npy",
+    "brightness_correction": 0.7823390242951476,
+    "contrast_correction": 1.3597806097307297,
+    "color_correction": 1.2156429937502355
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3143-IMG_0141.npy",
+    "brightness_correction": 0.903786621086789,
+    "contrast_correction": 1.115662236192756,
+    "color_correction": 0.8147397858387787
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2973-kme_431.npy",
+    "brightness_correction": 1.0141550725375623,
+    "contrast_correction": 1.2695637909553883,
+    "color_correction": 1.189159200908581
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2206-_I2E7986.npy",
+    "brightness_correction": 1.1681853560905329,
+    "contrast_correction": 0.774490908006075,
+    "color_correction": 0.9316714773067046
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3634-IMG_4959.npy",
+    "brightness_correction": 0.9717718412515431,
+    "contrast_correction": 0.8371830742022369,
+    "color_correction": 0.9073676494076925
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2130-LS_060107_0696.npy",
+    "brightness_correction": 0.7319676708908505,
+    "contrast_correction": 0.9446864251487236,
+    "color_correction": 1.36192709682116
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0007-IMG_2480.npy",
+    "brightness_correction": 0.8426474424762243,
+    "contrast_correction": 0.8761961720351767,
+    "color_correction": 1.2715202299849522
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1787-_MG_3277.npy",
+    "brightness_correction": 0.8070511745305234,
+    "contrast_correction": 1.1501209717640428,
+    "color_correction": 0.8309122535856253
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3086-kme_164.npy",
+    "brightness_correction": 1.0656515292150697,
+    "contrast_correction": 0.8395234751706415,
+    "color_correction": 1.5205892101143608
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0182-jmac_DSC2564.npy",
+    "brightness_correction": 1.2364144274232725,
+    "contrast_correction": 1.2715596751380425,
+    "color_correction": 1.4976817695315747
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1044-_DSC0121.npy",
+    "brightness_correction": 0.8918156511322952,
+    "contrast_correction": 0.8639874812823835,
+    "color_correction": 1.4182450435507452
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0779-07-09-22-at-15h09m46s-_Z9B3011.npy",
+    "brightness_correction": 1.0288578317795083,
+    "contrast_correction": 0.8026429591730898,
+    "color_correction": 1.3274389376966704
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2368-050701_140258__MG_3390.npy",
+    "brightness_correction": 0.9085029455484568,
+    "contrast_correction": 0.9679055888764947,
+    "color_correction": 0.9383578241258231
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1578-kme_008.npy",
+    "brightness_correction": 0.8286588317838449,
+    "contrast_correction": 1.3077931390041442,
+    "color_correction": 1.18837328013197
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0474-IMG_0036.npy",
+    "brightness_correction": 1.2183836155070698,
+    "contrast_correction": 0.8898554388337514,
+    "color_correction": 1.0337697010109075
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2095-07-11-22-at-08h32m36s-_MG_6015.npy",
+    "brightness_correction": 1.3692611495733102,
+    "contrast_correction": 1.2868002187092118,
+    "color_correction": 0.7579927155102395
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2534-JI2E3753.npy",
+    "brightness_correction": 1.4303451504934115,
+    "contrast_correction": 0.8192406070331416,
+    "color_correction": 0.964503767463024
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1788-IMG_4387.npy",
+    "brightness_correction": 1.1172465379796213,
+    "contrast_correction": 1.1246554127072605,
+    "color_correction": 0.8662877324043154
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4443-Duggan_090503_8691.npy",
+    "brightness_correction": 0.961444447790924,
+    "contrast_correction": 0.9282170722493059,
+    "color_correction": 0.9070872175120157
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3503-050731_155906__I2E5378.npy",
+    "brightness_correction": 1.0911906278316668,
+    "contrast_correction": 1.1161134332175462,
+    "color_correction": 0.8095518533494511
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3191-KE_-0029.npy",
+    "brightness_correction": 1.5933025417945181,
+    "contrast_correction": 1.149761822202274,
+    "color_correction": 0.9560852616746474
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1416-07-10-06-at-16h48m40s-_MG_3892.npy",
+    "brightness_correction": 0.9480257196889511,
+    "contrast_correction": 0.8130373677693193,
+    "color_correction": 1.4511651819624385
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1780-kme_561.npy",
+    "brightness_correction": 0.8519221435343225,
+    "contrast_correction": 1.2834992434886985,
+    "color_correction": 1.4394401648705215
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2483-jn_20080803_0324.npy",
+    "brightness_correction": 1.5283141839938637,
+    "contrast_correction": 1.264315279916425,
+    "color_correction": 0.9843038881427976
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0445-jmac_DSC0657.npy",
+    "brightness_correction": 0.7395912347335469,
+    "contrast_correction": 1.1890491072718963,
+    "color_correction": 0.8487078916614859
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0157-DSC_0011-1.npy",
+    "brightness_correction": 0.7257654852710801,
+    "contrast_correction": 1.1075487058322482,
+    "color_correction": 1.065133723917235
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4048-kme_585.npy",
+    "brightness_correction": 0.832860994038359,
+    "contrast_correction": 1.004547162168653,
+    "color_correction": 0.969388676662209
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2391-IMG_1296.npy",
+    "brightness_correction": 0.9806387828832379,
+    "contrast_correction": 0.9215815012478213,
+    "color_correction": 1.078523967466414
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4519-_DGW7869.npy",
+    "brightness_correction": 1.3812398757720585,
+    "contrast_correction": 0.837726110174266,
+    "color_correction": 0.819635243397925
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1070-_MG_6547.npy",
+    "brightness_correction": 1.0429719931098242,
+    "contrast_correction": 1.300137378714039,
+    "color_correction": 0.7763992861979154
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3970-WP_Amanda_3rd_bday014.npy",
+    "brightness_correction": 1.2366996767843614,
+    "contrast_correction": 1.1854532203293806,
+    "color_correction": 0.9079922336757534
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0114-KE_-0062.npy",
+    "brightness_correction": 0.9558880030059033,
+    "contrast_correction": 1.367072947207263,
+    "color_correction": 0.8064352067052701
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1357-_DSC2019.npy",
+    "brightness_correction": 1.281368057499575,
+    "contrast_correction": 1.3784796458901385,
+    "color_correction": 1.2448639515635298
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4228-DSC_0037-2.npy",
+    "brightness_correction": 1.272050162513524,
+    "contrast_correction": 1.2632986699081623,
+    "color_correction": 0.7940678701834589
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2933-_I2E7313.npy",
+    "brightness_correction": 0.9995331184168594,
+    "contrast_correction": 1.118855890545874,
+    "color_correction": 0.8480511523661541
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1638-IMG_3497.npy",
+    "brightness_correction": 0.8801186805203196,
+    "contrast_correction": 1.4053758234775484,
+    "color_correction": 0.8432587183291756
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2087-IMG_1560.npy",
+    "brightness_correction": 1.006257096669748,
+    "contrast_correction": 0.9076178912427869,
+    "color_correction": 0.8787444122339729
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2722-dgw_158.npy",
+    "brightness_correction": 0.9615154729250939,
+    "contrast_correction": 1.3810666569963157,
+    "color_correction": 0.940939076630048
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1439-IMG_0055.npy",
+    "brightness_correction": 1.3036631974804687,
+    "contrast_correction": 0.9527044079698079,
+    "color_correction": 1.5267020301138892
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1144-MB_20050517_054.npy",
+    "brightness_correction": 0.8609857793870451,
+    "contrast_correction": 0.9533343507024313,
+    "color_correction": 1.1017065022258012
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3431-_DSC0103-3.npy",
+    "brightness_correction": 0.7582287670054206,
+    "contrast_correction": 1.2523363784236259,
+    "color_correction": 1.2516508779292426
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a4828-Duggan_050710_1299.npy",
+    "brightness_correction": 0.9718324222689586,
+    "contrast_correction": 0.8005633418909103,
+    "color_correction": 0.8539872094454857
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1142-_DGW6357.npy",
+    "brightness_correction": 1.2119247794697037,
+    "contrast_correction": 0.9673447328175961,
+    "color_correction": 0.992441824412374
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1345-IMG_1698.npy",
+    "brightness_correction": 1.3738327176503655,
+    "contrast_correction": 1.218098680583727,
+    "color_correction": 0.9299445272059318
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1633-_DSC5879.npy",
+    "brightness_correction": 1.1526200417630201,
+    "contrast_correction": 1.1157789722815195,
+    "color_correction": 1.201577487835594
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0792-jmac_DSC1632.npy",
+    "brightness_correction": 1.4381575117568082,
+    "contrast_correction": 1.1478037992155086,
+    "color_correction": 1.4921537303437211
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a2822-jmac_MG_1389.npy",
+    "brightness_correction": 0.9236217582456699,
+    "contrast_correction": 0.9167203805954074,
+    "color_correction": 0.9918041514376742
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0097-JI2E5089.npy",
+    "brightness_correction": 1.0816041607095366,
+    "contrast_correction": 1.2331988641439406,
+    "color_correction": 1.4724026212986374
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0914-jmac_DSC2570.npy",
+    "brightness_correction": 0.8040468301583544,
+    "contrast_correction": 0.8728379462486158,
+    "color_correction": 0.7924156163211241
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a0933-dgw_007.npy",
+    "brightness_correction": 1.315591947793752,
+    "contrast_correction": 0.9595785359653679,
+    "color_correction": 0.8524486952292898
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3562-kme_256.npy",
+    "brightness_correction": 0.7896749939945409,
+    "contrast_correction": 0.9053675440925627,
+    "color_correction": 0.7869947495941181
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a3728-WP_CRW_9556 (1).npy",
+    "brightness_correction": 0.7972649131081451,
+    "contrast_correction": 1.0910324851943949,
+    "color_correction": 1.453367353529278
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1251-_DGW6263.npy",
+    "brightness_correction": 0.908352577981292,
+    "contrast_correction": 0.9614386604726742,
+    "color_correction": 0.7879808957689781
+  },
+  {
+    "thumbnail": "/content/drive/MyDrive/fivek_thumbnails_val/a1433-jmac_MG_0303.npy",
+    "brightness_correction": 1.247091063775225,
+    "contrast_correction": 0.993384427219831,
+    "color_correction": 1.1534942106279962
+  }
+]
