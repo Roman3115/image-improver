@@ -27,3 +27,20 @@ dist-ssr
 stats.html
 .env
 .env.local
+
+# Datasets (большие файлы)
+datasets/thumbnails_train/
+datasets/thumbnails_val/
+datasets/thumbnails_test/
+datasets/degraded_test/
+
+# Jupyter notebooks (инструменты разработки)
+*.ipynb
+*.ipynb_checkpoints/
+
+# Промежуточные веса PyTorch
+*.pth
+
+# Временные файлы
+__pycache__/
+*.pyc
