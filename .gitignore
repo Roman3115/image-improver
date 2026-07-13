@@ -44,3 +44,8 @@ datasets/degraded_test/
 # Временные файлы
 __pycache__/
 *.pyc
+
+# Test files (временные файлы для тестирования)
+test.html
+src/test-*.ts
+public/test-*.jpg
