@@ -10,6 +10,14 @@ export interface EnhanceResult {
   processingTime: number;
 }
 
+export type ProgressCallback = (stage: string, percent: number) => void;
+
+export interface EnhanceOptions {
+  format?: 'jpeg' | 'png';
+  signal?: AbortSignal;
+  onProgress?: ProgressCallback;
+}
+
 export class ImageEnhancer {
   private modelRunner: ModelRunner;
   private renderer: WebGLRenderer;
@@ -24,35 +32,44 @@ export class ImageEnhancer {
     if (this.isInitialized) return;
     await this.modelRunner.load(modelPath);
     this.isInitialized = true;
-    console.log('ImageEnhancer готов к работе');
   }
 
   async enhance(
     image: HTMLImageElement | HTMLCanvasElement | ImageBitmap,
-    format: 'jpeg' | 'png' = 'jpeg'
+    options: EnhanceOptions = {}
   ): Promise<EnhanceResult> {
-    if (!this.isInitialized) {
-      throw new Error('ImageEnhancer не инициализирован. Вызовите initialize() сначала.');
-    }
+    if (!this.isInitialized) throw new Error('ImageEnhancer не инициализирован');
 
+    const { format = 'jpeg', signal, onProgress } = options;
     const startTime = performance.now();
 
     try {
+      onProgress?.('start', 0);
+      if (signal?.aborted) throw new DOMException('Aborted', 'AbortError');
+
+      onProgress?.('preprocessing', 20);
+      if (signal?.aborted) throw new DOMException('Aborted', 'AbortError');
+
       const coefficients = await this.modelRunner.predict(image);
-      console.log('Предсказанные коэффициенты:', coefficients);
+      
+      onProgress?.('inference', 60);
+      if (signal?.aborted) throw new DOMException('Aborted', 'AbortError');
 
       const renderResult = await this.renderer.apply(image, coefficients, format);
-      const endTime = performance.now();
+      
+      onProgress?.('done', 100);
 
       return {
         blob: renderResult.blob,
         width: renderResult.width,
         height: renderResult.height,
         coefficients,
-        processingTime: endTime - startTime,
+        processingTime: performance.now() - startTime,
       };
     } catch (error) {
-      console.error('Ошибка при улучшении изображения:', error);
+      if (error instanceof DOMException && error.name === 'AbortError') {
+        console.log('Обработка прервана пользователем');
+      }
       throw error;
     }
   }

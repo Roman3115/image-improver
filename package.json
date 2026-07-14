@@ -22,6 +22,7 @@
     "vite-plugin-wasm": "^3.6.0"
   },
   "dependencies": {
+    "heic2any": "^0.0.4",
     "onnxruntime-web": "^1.27.0"
   }
 }
