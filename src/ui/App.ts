@@ -113,8 +113,10 @@ export class App {
         img.onerror = reject;
       });
 
+      const outputFormat = this.determineOutputFormat(file.name);
+
       const result = await this.enhancer.enhance(img, {
-        format: 'jpeg',
+        format: outputFormat,
         signal: this.abortController.signal,
         onProgress: (stage, percent) => this.updateProgress(stage, percent),
       });
@@ -148,7 +150,8 @@ export class App {
     const url = URL.createObjectURL(this.currentResult);
     const a = document.createElement('a');
     a.href = url;
-    a.download = `improved_${Date.now()}.jpg`;
+    const extension = this.currentResult.type === 'image/png' ? 'png' : 'jpg';
+    a.download = `improved_${Date.now()}.${extension}`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
@@ -166,6 +169,14 @@ export class App {
     this.imagePreview.hide();
     this.dropZone.show();
     this.hideError();
+  }
+
+  private determineOutputFormat(fileName: string): 'jpeg' | 'png' {
+    const extension = fileName.toLowerCase().split('.').pop();
+    if (extension === 'png') {
+      return 'png';
+    }
+    return 'jpeg';
   }
 
   private updateProgress(stage: string, percent: number): void {
