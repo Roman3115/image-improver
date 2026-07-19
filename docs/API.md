@@ -1,265 +1,333 @@
 # API Image Improver
 
+Данный документ описывает программный интерфейс ядра системы улучшения изображений.
+
 ## Класс `ImageEnhancer`
 
-Основной класс библиотеки. Реализует паттерн `EventTarget` для подписки на события.
+Основной класс, объединяющий ML-модель и WebGL-рендерер в единый пайплайн обработки.
+
+Класс наследует встроенный браузерный `EventTarget`, что позволяет подписываться на события обработки через стандартный API `addEventListener`.
 
 ### Конструктор
 
 ```typescript
-const enhancer = new ImageEnhancer(options?: EnhancerOptions);
+const enhancer = new ImageEnhancer();
 ```
 
-Параметры EnhancerOptions:
+Параметры не требуются. Модель загружается отдельно через метод `initialize()`.
 
-| Параметр     | Тип      | По умолчанию         | Описание                          |
-|--------------|----------|----------------------|-----------------------------------|
-| modelUrl     | string   | '/models/model.onnx' | Путь к ONNX-модели                |
-| wasmPaths    | string   | '/assets/wasm/'      | Путь к WASM-файлам ONNX Runtime   |
-| maxConcurrency | number | 1                    | Макс. количество одновременных задач |
+## Асинхронная модель
 
-### Методы
+Все основные методы API работают **асинхронно** и возвращают `Promise`. Это значит следующее:
 
-#### Метод submit
+- Обработка изображений не блокирует главный поток браузера
+- Пользовательский интерфейс не блокируется во время обработки
+- Возможность прерывания задачи через `AbortController`
+- Генерация событий `progress` во время выполнения
 
-submit(image, options?) → string
-Постановка задачи на обработку.
-
-Метод submit — Параметры:
-
-| Параметр         | Тип                              | Обязательный | Описание                          |
-|------------------|----------------------------------|--------------|-----------------------------------|
-| image            | File \| Blob \| ImageBitmap      | Да           | Исходное изображение              |
-| options.format   | 'jpeg' \| 'png' \| 'auto'        | Нет          | Формат результата (по умолчанию 'auto') |
-| options.signal   | AbortSignal                      | Нет          | Сигнал для прерывания задачи      |
-
-Возвращает: taskId (строка-идентификатор задачи).
-
-Пример:
+**Пример асинхронного вызова:**
 
 ```typescript
-const file = input.files[0];
-const taskId = enhancer.submit(file);
+const result = await enhancer.enhance(img, options);
 ```
 
-#### Метод getStatus
+**Время выполнения:**
 
-getStatus(taskId) → TaskStatus
-Получение текущего статуса задачи.
+| Метод          | Время выполнения        | Описание                                |
+|----------------|-------------------------|-----------------------------------------|
+| `initialize()` | ~500-700 мс             | Загрузка ONNX-модели в память           |
+| `enhance()`    | ~200-400 мс (6-12 Мп)   | Полный цикл обработки изображения       |
+| `dispose()`    | < 10 мс                 | Освобождение ресурсов                   |
 
-Метод getStatus — Возвращает объект:
+## Методы
 
-| Поле     | Тип                                                                                              | Описание              |
-|----------|--------------------------------------------------------------------------------------------------|-----------------------|
-| taskId   | string                                                                                           | Идентификатор задачи  |
-| status   | 'pending' \| 'decoding' \| 'analyzing' \| 'rendering' \| 'encoding' \| 'done' \| 'aborted' \| 'error' | Текущий статус        |
-| progress | number                                                                                           | Прогресс от 0 до 100  |
-
-Пример:
+### Метод `initialize`
 
 ```typescript
-const status = enhancer.getStatus(taskId);
-console.log(status.progress); // 45
+async initialize(modelPath: string = '/models/model.onnx'): Promise<void>
 ```
 
-#### Метод abort
+Загружает ONNX-модель в память браузера. Должен быть вызван один раз перед началом обработки изображений.
 
-abort(taskId) → Promise<boolean>
-Прерывание задачи. Освобождает все ресурсы (WebGL-текстуры, WASM-память, буферы).
+**Параметры:**
 
-Метод abort — Параметры:
+| Параметр  | Тип    | По умолчанию         | Описание                 |
+|-----------|--------|----------------------|--------------------------|
+| modelPath | string | '/models/model.onnx' | Путь к файлу ONNX-модели |
 
-| Параметр | Тип    | Описание              |
-|----------|--------|-----------------------|
-| taskId   | string | Идентификатор задачи  |
-
-Возвращает: Promise<boolean>
-true — задача успешно прервана
-false — задача уже завершена (статус done, error или aborted)
-
-Особенности:
-— Метод можно вызывать даже после завершения задачи — это безопасно
-— При прерывании генерируется событие progress со статусом aborted
-— Все ресурсы освобождаются автоматически (нет утечек памяти)
-
-Пример:
+**Пример:**
 
 ```typescript
-const success = await enhancer.abort(taskId);
-if (success) {
-  console.log('Задача прервана');
-} else {
-  console.log('Задача уже завершена');
+const enhancer = new ImageEnhancer();
+await enhancer.initialize('/models/model.onnx');
+```
+
+### Метод `enhance`
+
+```typescript
+async enhance(
+  image: HTMLImageElement | HTMLCanvasElement | ImageBitmap,
+  options?: EnhanceOptions
+): Promise<EnhanceResult>
+```
+
+Выполняет полный цикл обработки изображения:
+1. Предобработка (resize до 224×224, нормализация)
+2. ML-инференс (предсказание коэффициентов коррекции)
+3. WebGL-рендеринг (применение коэффициентов к полноразмерному изображению)
+4. Кодирование результата (JPEG/PNG)
+
+**Параметры:**
+
+| Параметр           | Тип                                                  | Обязательный | Описание                                                         |
+|--------------------|------------------------------------------------------|--------------|------------------------------------------------------------------|
+| image              | HTMLImageElement \| HTMLCanvasElement \| ImageBitmap | Да           | Исходное изображение для обработки                               |
+| options.format     | 'jpeg' \| 'png'                                      | Нет          | Формат выходного файла. По умолчанию: `'jpeg'`                   |
+| options.signal     | AbortSignal                                          | Нет          | Сигнал для прерывания задачи (через `AbortController`)           |
+| options.onProgress | (stage: string, percent: number) => void             | Нет          | Колбэк для отслеживания прогресса (дублирует событие `progress`) |
+
+**Возвращает:** `Promise<EnhanceResult>`
+
+**Пример:**
+
+```typescript
+const img = new Image();
+img.src = URL.createObjectURL(file);
+await new Promise(resolve => { img.onload = resolve; });
+
+const result = await enhancer.enhance(img, {
+  format: 'jpeg',
+  signal: abortController.signal,
+  onProgress: (stage, percent) => {
+    console.log(`Прогресс: ${stage} - ${percent}%`);
+  }
+});
+```
+
+### Метод `dispose`
+
+```typescript
+dispose(): void
+```
+
+Освобождает все занятые ресурсы: WebGL-контекст, текстуры и память ONNX-модели. Вызывается при уничтожении компонента или закрытии приложения.
+
+**Пример:**
+
+```typescript
+enhancer.dispose();
+```
+
+## Типы данных
+
+### `EnhanceOptions`
+
+```typescript
+interface EnhanceOptions {
+  format?: 'jpeg' | 'png';
+  signal?: AbortSignal;
+  onProgress?: (stage: string, percent: number) => void;
 }
 ```
 
-#### Метод getResult
+**Поля:**
 
-getResult(taskId, format?) → Promise<Blob>
-Получение готового изображения.
+| Поле       | Тип                                        | Описание                                                 |
+|------------|--------------------------------------------|----------------------------------------------------------|
+| format     | 'jpeg' \| 'png'                            | Формат выходного файла                                   |
+| signal     | AbortSignal                                | Сигнал для прерывания задачи                             |
+| onProgress | (stage: string, percent: number) => void   | Колбэк для отслеживания прогресса                        |
 
-Метод getResult — Параметры:
-
-| Параметр | Тип                        | Описание                                    |
-|----------|----------------------------|---------------------------------------------|
-| taskId   | string                     | Идентификатор задачи                        |
-| format   | 'jpeg' \| 'png' \| 'auto'  | Формат результата (по умолчанию стратегия из ТЗ) |
-
-Возвращает: Blob с готовым изображением.
-
-Пример:
+### `EnhanceResult`
 
 ```typescript
-const blob = await enhancer.getResult(taskId);
-const url = URL.createObjectURL(blob);
-a.href = url;
-a.download = 'improved.jpg';
-a.click();
+interface EnhanceResult {
+  blob: Blob;
+  width: number;
+  height: number;
+  coefficients: CorrectionCoefficients;
+  processingTime: number;
+}
 ```
 
-### События
+**Поля:**
 
-Класс ImageEnhancer наследует EventTarget, поэтому можно подписываться через addEventListener или метод on.
+| Поле           | Тип                      | Описание                                       |
+|----------------|--------------------------|------------------------------------------------|
+| blob           | Blob                     | Готовое изображение в виде Blob-объекта        |
+| width          | number                   | Ширина изображения в пикселях                  |
+| height         | number                   | Высота изображения в пикселях                  |
+| coefficients   | CorrectionCoefficients   | Предсказанные моделью коэффициенты коррекции   |
+| processingTime | number                   | Общее время обработки в миллисекундах          |
 
-#### Событие progress
-
-Возникает при изменении статуса или прогресса задачи.
-
-Событие progress — Данные события:
-
-| Поле     | Тип                      | Описание              |
-|----------|--------------------------|-----------------------|
-| taskId   | string                   | Идентификатор задачи  |
-| status   | TaskStatus['status']     | Текущий статус        |
-| progress | number                   | Прогресс от 0 до 100  |
-
-Пример:
+### `CorrectionCoefficients`
 
 ```typescript
-enhancer.addEventListener('progress', (event) => {
-  console.log(`${event.detail.status}: ${event.detail.progress}%`);
-});
+interface CorrectionCoefficients {
+  brightness: number;
+  contrast: number;
+  color: number;
+}
+```
 
-// Или через метод on:
-enhancer.on('progress', ({ taskId, status, progress }) => {
-  progressBar.value = progress;
+**Поля:**
+
+| Поле       | Тип    | Описание                                                    |
+|------------|--------|-------------------------------------------------------------|
+| brightness | number | Коэффициент яркости (1.0 = без изменений, >1 = более ярко, <1 = более блекло) |
+| contrast   | number | Коэффициент контраста (1.0 = без изменений, >1 = с большей контрастностью, <1 = с меньшей контрастностью) |
+| color      | number | Коэффициент цветности (1.0 = без изменений, >1 = более насыщенно, <1 = менее насыщенно) |
+
+### `ProgressEventDetail`
+
+```typescript
+interface ProgressEventDetail {
+  stage: 'start' | 'preprocessing' | 'inference' | 'rendering' | 'done' | 'aborted' | 'error';
+  progress: number;
+  error?: any;
+}
+```
+
+**Поля:**
+
+| Поле     | Тип    | Описание                                                                |
+|----------|--------|-------------------------------------------------------------------------|
+| stage    | string | Текущий этап обработки                                                  |
+| progress | number | Процент выполнения (0-100)                                              |
+| error    | any    | Объект ошибки (только если `stage === 'error'`)                         |
+
+**Возможные значения `stage`:**
+
+| Значение       | Описание                                       | Прогресс |
+|----------------|------------------------------------------------|----------|
+| 'start'        | Начало обработки                               | 0%       |
+| 'preprocessing'| Предобработка изображения                      | 20%      |
+| 'inference'    | ML-инференс (предсказание коэффициентов)       | 60%      |
+| 'rendering'    | WebGL-рендеринг                                | 80%      |
+| 'done'         | Обработка успешно завершена                    | 100%     |
+| 'aborted'      | Обработка прервана пользователем               | —        |
+| 'error'        | Произошла ошибка                               | —        |
+
+---
+
+## События
+
+Класс `ImageEnhancer` наследует `EventTarget`, поэтому поддерживает стандартный API `addEventListener`.
+
+### Событие `progress`
+
+Генерируется при изменении этапа обработки.
+
+**Данные события (`event.detail`):**
+
+| Поле     | Тип    | Описание                                                                |
+|----------|--------|-------------------------------------------------------------------------|
+| stage    | string | Текущий этап обработки                                                  |
+| progress | number | Процент выполнения (0-100)                                              |
+| error    | any    | Объект ошибки (только если `stage === 'error'`)                         |
+
+**Пример подписки:**
+
+```typescript
+enhancer.addEventListener('progress', (event: CustomEvent) => {
+  const { stage, progress } = event.detail;
+  console.log(`Этап: ${stage}, Прогресс: ${progress}%`);
+  
+  if (stage === 'error') {
+    console.error('Ошибка:', event.detail.error);
+  }
+  
+  if (stage === 'aborted') {
+    console.log('Обработка прервана пользователем');
+  }
 });
 ```
 
-#### Полный пример использования:
+---
+
+## Полный пример использования
 
 ```typescript
-import { ImageEnhancer } from './api/ImageEnhancer';
+import { ImageEnhancer } from './core/Enhancer';
 
+// 1. Создание экземпляра
 const enhancer = new ImageEnhancer();
 
-// Подписка на прогресс
-enhancer.on('progress', ({ status, progress }) => {
-  console.log(`[${status}] ${progress}%`);
-});
+// 2. Инициализация (загрузка модели)
+await enhancer.initialize('/models/model.onnx');
 
-// Загрузка файла
-const file = document.querySelector('input[type=file]').files[0];
+// 3. Подготовка изображения
+const file = input.files[0];
+const img = new Image();
+img.src = URL.createObjectURL(file);
+await new Promise(resolve => { img.onload = resolve; });
 
-// Постановка задачи
-const taskId = enhancer.submit(file);
+// 4. Настройка прерывания
+const abortController = new AbortController();
 
-// Ожидание результата
-const blob = await new Promise((resolve) => {
-  const checkStatus = () => {
-    const status = enhancer.getStatus(taskId);
-    if (status.status === 'done') {
-      resolve(enhancer.getResult(taskId));
-    } else if (status.status === 'error' || status.status === 'aborted') {
-      reject(new Error(status.status));
-    } else {
-      setTimeout(checkStatus, 100);
-    }
-  };
-  checkStatus();
-});
-
-// Скачивание результата
-const url = URL.createObjectURL(blob);
-const a = document.createElement('a');
-a.href = url;
-a.download = 'improved.jpg';
-a.click();
-URL.revokeObjectURL(url);
-```
-
-### Обработка ошибок
-
-Обработка ошибок — Типы ошибок:
-
-| Ошибка                    | Причина                                              | Как обрабатывается                                              |
-|---------------------------|------------------------------------------------------|-----------------------------------------------------------------|
-| UnsupportedFormatError    | Файл не является изображением (не JPG/PNG/HEIC/BMP)  | submit() выбрасывает исключение, задача не создаётся            |
-| SizeLimitExceededError    | Изображение превышает 15 Мп                          | submit() выбрасывает исключение                                 |
-| ModelLoadError            | Не удалось загрузить ONNX-модель                     | Статус задачи → error, событие progress с error                 |
-| DecodingError             | Ошибка декодирования (повреждённый HEIC и т.д.)      | Статус задачи → error                                           |
-| RenderingError            | Сбой WebGL-контекста (неподдерживаемый браузер)      | Статус задачи → error                                           |
-| EncodingError             | Ошибка кодирования результата                        | Статус задачи → error                                           |
-| AbortedError              | Задача прервана пользователем                        | Статус задачи → aborted                                         |
-
-#### Пример обработки ошибок:
-
-```typescript
-try {
-  const taskId = enhancer.submit(file);
+// 5. Подписка на события прогресса
+enhancer.addEventListener('progress', (e: CustomEvent) => {
+  const { stage, progress } = e.detail;
+  console.log(`[${stage}] ${progress}%`);
   
-  enhancer.on('progress', ({ status, progress, error }) => {
-    if (status === 'error') {
-      console.error('Ошибка обработки:', error);
-      return;
-    }
-    if (status === 'aborted') {
-      console.log('Задача прервана');
-      return;
-    }
-    console.log(`[${status}] ${progress}%`);
+  // Обновление UI
+  progressBar.value = progress;
+  statusText.textContent = stage;
+});
+
+// 6. Запуск обработки
+try {
+  const result = await enhancer.enhance(img, {
+    format: file.name.toLowerCase().endsWith('.png') ? 'png' : 'jpeg',
+    signal: abortController.signal,
   });
-  
-  const blob = await enhancer.getResult(taskId);
-  // ... скачивание
-} catch (err) {
-  if (err instanceof UnsupportedFormatError) {
-    alert('Неподдерживаемый формат файла');
-  } else if (err instanceof SizeLimitExceededError) {
-    alert('Изображение слишком большое (макс. 15 Мп)');
+
+  // 7. Скачивание результата
+  const url = URL.createObjectURL(result.blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `improved_${Date.now()}.${result.blob.type === 'image/png' ? 'png' : 'jpg'}`;
+  a.click();
+  URL.revokeObjectURL(url);
+
+  console.log(`Обработано за ${result.processingTime} мс`);
+  console.log('Коэффициенты:', result.coefficients);
+
+} catch (error: any) {
+  if (error.name === 'AbortError') {
+    console.log('Обработка прервана пользователем');
   } else {
-    console.error('Неизвестная ошибка:', err);
+    console.error('Ошибка обработки:', error);
   }
 }
+
+// 8. Очистка ресурсов (при закрытии приложения)
+// enhancer.dispose();
 ```
 
-#### Rejected Promise
+---
 
-Метод getResult() возвращает Promise<Blob>, который может быть отклонён:
-Если задача прервана → Promise отклоняется с AbortedError
-Если произошла ошибка → Promise отклоняется с соответствующей ошибкой
+## Обработка ошибок
+
+Метод `enhance` использует стандартные механизмы JavaScript:
+
+| Тип ошибки                          | Причина возникновения                                  |
+|-------------------------------------|--------------------------------------------------------|
+| `Error`                             | ImageEnhancer не был инициализирован (`initialize`)    |
+| `Error`                             | Ошибка декодирования HEIC (через heic2any)             |
+| `DOMException` (name: 'AbortError') | Задача прервана через `AbortController.abort()`        |
+| `Error`                             | Сбой WebGL-контекста или нехватка памяти браузера      |
+
+**Пример обработки:**
 
 ```typescript
 try {
-  const blob = await enhancer.getResult(taskId);
-} catch (err) {
-  if (err.name === 'AbortedError') {
-    console.log('Задача была прервана');
+  const result = await enhancer.enhance(img);
+} catch (error: any) {
+  if (error.name === 'AbortError') {
+    console.log('Обработка прервана');
   } else {
-    console.error('Ошибка получения результата:', err);
+    console.error('Ошибка:', error.message);
   }
 }
 ```
-
-### Статусы задачи
-
-| Статус    | Описание                                  | Прогресс |
-|-----------|-------------------------------------------|----------|
-| pending   | Задача поставлена в очередь               | 0%       |
-| decoding  | Декодирование изображения (включая HEIC)  | 10-30%   |
-| analyzing | ML-инференс (предсказание параметров)     | 30-60%   |
-| rendering | Применение параметров через WebGL         | 60-85%   |
-| encoding  | Кодирование результата в JPEG/PNG         | 85-95%   |
-| done      | Задача завершена успешно                  | 100%     |
-| aborted   | Задача прервана пользователем             | —        |
-| error     | Произошла ошибка                          | —        |
