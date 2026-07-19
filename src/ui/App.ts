@@ -61,7 +61,7 @@ export class App {
   private async initialize(): Promise<void> {
     try {
       this.updateProgress('Загрузка модели...', 10);
-      await this.enhancer.initialize('./models/model.onnx');
+      await this.enhancer.initialize('/models/model.onnx');
       this.updateProgress('Готово', 100);
       setTimeout(() => this.hideLoading(), 500);
     } catch (error) {
